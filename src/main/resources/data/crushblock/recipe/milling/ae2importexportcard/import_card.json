@@ -13,15 +13,15 @@
     },
     {
       "count": 1,
-      "id": "ae2:import_bus"
-    },
-    {
-      "count": 3,
-      "id": "minecraft:redstone_block"
+      "id": "ae2:import_card"
     },
     {
       "count": 1,
       "id": "ae2:advanced_card"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:redstone_block"
     },
     {
       "count": 2,

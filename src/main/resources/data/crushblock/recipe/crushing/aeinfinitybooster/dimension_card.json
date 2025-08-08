@@ -2,26 +2,22 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "aeinfinitybooster:infinity_card"
+      "item": "aeinfinitybooster:dimension_card"
     }
   ],
   "processingTime": 400,
   "results": [
     {
-      "count": 2,
+      "count": 1,
       "id": "minecraft:ender_eye"
     },
     {
-      "count": 3,
-      "id": "ae2:wireless_booster"
+      "count": 4,
+      "id": "ae2infinitybooster:infinity_card"
     },
     {
-      "count": 1,
+      "count": 4,
       "id": "minecraft:nether_star"
-    },
-    {
-      "count": 3,
-      "id": "minecraft:netherite_ingot"
     }
   ]
 }
