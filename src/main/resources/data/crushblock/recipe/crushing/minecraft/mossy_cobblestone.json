@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:mossy_cobblestone"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:vine"
+    }
+  ]
+}

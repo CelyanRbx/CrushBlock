@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2additions:item_storage_cell_16384"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "id": "ae2:quartz_glass"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:diamond"
+    },
+    {
+      "count": 3,
+      "id": "ae2:fluix_dust"
+    },
+    {
+      "count": 1,
+      "id": "ae2additions:cell_component_16384"
+    }
+  ]
+}

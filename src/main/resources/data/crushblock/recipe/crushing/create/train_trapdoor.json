@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:train_trapdoor"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:oak_trapdoor"
+    },
+    {
+      "count": 1,
+      "id": "create:railway_casing"
+    }
+  ]
+}

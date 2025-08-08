@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:controller_rail"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 6,
+      "id": "minecraft:gold_ingot"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    },
+    {
+      "count": 1,
+      "id": "create:electron_tube"
+    }
+  ]
+}

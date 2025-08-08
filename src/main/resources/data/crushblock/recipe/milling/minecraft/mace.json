@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:mace"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:heavy_core"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:breeze_rod"
+    }
+  ]
+}

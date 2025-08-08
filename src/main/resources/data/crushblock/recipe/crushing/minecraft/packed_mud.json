@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:packed_mud"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:mud"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:wheat"
+    }
+  ]
+}

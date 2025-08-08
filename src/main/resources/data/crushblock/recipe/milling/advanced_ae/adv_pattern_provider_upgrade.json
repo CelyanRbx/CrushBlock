@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "advanced_ae:adv_pattern_provider_upgrade"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:redstone"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "count": 1,
+      "id": "ae2:logic_processor"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:redstone_contact"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 5,
+      "id": "minecraft:andesite"
+    },
+    {
+      "count": 1,
+      "id": "create:iron_sheet"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:redstone"
+    }
+  ]
+}

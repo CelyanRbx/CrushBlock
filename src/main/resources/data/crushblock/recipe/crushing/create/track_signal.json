@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:track_signal"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "create:railway_casing"
+    },
+    {
+      "count": 1,
+      "id": "create:electron_tube"
+    }
+  ]
+}

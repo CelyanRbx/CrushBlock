@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:hose_pulley"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "create:copper_casing"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:dried_kelp_block"
+    },
+    {
+      "count": 1,
+      "id": "create:copper_sheet"
+    }
+  ]
+}

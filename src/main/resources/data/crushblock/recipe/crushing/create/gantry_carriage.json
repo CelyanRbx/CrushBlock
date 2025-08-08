@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:gantry_carriage"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:oak_planks"
+    },
+    {
+      "count": 1,
+      "id": "create:andesite_casing"
+    },
+    {
+      "count": 1,
+      "id": "create:cogwheel"
+    }
+  ]
+}

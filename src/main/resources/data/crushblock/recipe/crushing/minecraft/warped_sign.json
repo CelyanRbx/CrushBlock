@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:warped_sign"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 6,
+      "id": "minecraft:warped_planks"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    }
+  ]
+}

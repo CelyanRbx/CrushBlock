@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_chest"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "id": "minecraft:obsidian"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:ender_eye"
+    }
+  ]
+}

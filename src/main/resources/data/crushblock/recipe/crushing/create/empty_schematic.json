@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:empty_schematic"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:light_blue_dye"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:paper"
+    }
+  ]
+}

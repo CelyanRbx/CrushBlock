@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:acacia_sign"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 6,
+      "id": "minecraft:acacia_planks"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    }
+  ]
+}

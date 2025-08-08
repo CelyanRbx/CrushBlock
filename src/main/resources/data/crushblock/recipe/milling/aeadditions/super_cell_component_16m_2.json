@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2additions:super_cell_component_16m"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "id": "ae2additions:super_cell_component_4096k"
+    },
+    {
+      "count": 6,
+      "id": "minecraft:diamond"
+    }
+  ]
+}

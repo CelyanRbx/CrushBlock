@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:weathered_copper_bulb"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "id": "minecraft:weathered_copper"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:blaze_rod"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:redstone"
+    }
+  ]
+}

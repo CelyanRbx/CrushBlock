@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:spruce_fence_gate"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:stick"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:spruce_planks"
+    }
+  ]
+}

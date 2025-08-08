@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:end_crystal"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 7,
+      "id": "minecraft:glass"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:ghast_tear"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:ender_eye"
+    }
+  ]
+}

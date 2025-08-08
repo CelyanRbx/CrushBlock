@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:magenta_table_cloth"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:magenta_wool"
+    },
+    {
+      "count": 1,
+      "id": "create:andesite_alloy"
+    }
+  ]
+}

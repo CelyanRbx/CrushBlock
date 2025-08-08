@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:tree_fertilizer"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "id": "minecraft:red_tulip"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:fire_coral"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:bone_meal"
+    }
+  ]
+}

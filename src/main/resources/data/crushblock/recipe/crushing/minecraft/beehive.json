@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:beehive"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 6,
+      "id": "minecraft:oak_planks"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:honeycomb"
+    }
+  ]
+}

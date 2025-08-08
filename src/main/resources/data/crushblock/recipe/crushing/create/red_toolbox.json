@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:red_toolbox"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "create:brown_toolbox"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:red_dye"
+    }
+  ]
+}

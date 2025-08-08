@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_hoe"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "id": "minecraft:gold_ingot"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:stick"
+    }
+  ]
+}

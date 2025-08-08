@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "advanced_ae:evasion_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "advanced_ae:quantum_upgrade_base"
+    },
+    {
+      "count": 4,
+      "id": "advanced_ae:quantum_alloy_plate"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:rabbit_hide"
+    },
+    {
+      "count": 2,
+      "id": "ae2:speed_card"
+    }
+  ]
+}

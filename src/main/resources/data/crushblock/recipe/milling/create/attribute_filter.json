@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:attribute_filter"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:white_wool"
+    },
+    {
+      "count": 1,
+      "id": "create:brass_nugget"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:package_frogport"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:slime_ball"
+    },
+    {
+      "count": 1,
+      "id": "create:item_vault"
+    },
+    {
+      "count": 1,
+      "id": "create:andesite_alloy"
+    }
+  ]
+}

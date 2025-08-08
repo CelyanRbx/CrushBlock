@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:exposed_copper_bulb"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "id": "minecraft:exposed_copper"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:blaze_rod"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:redstone"
+    }
+  ]
+}

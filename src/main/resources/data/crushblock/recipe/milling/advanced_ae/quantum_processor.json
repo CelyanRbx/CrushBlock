@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "advanced_ae:quantum_processor"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "id": "advanced_ae:printed_quantum_processor"
+    },
+    {
+      "count": 4,
+      "id": "ae2:printed_silicon"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:redstone"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:brewing_stand"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:blaze_rod"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:stone"
+    }
+  ]
+}

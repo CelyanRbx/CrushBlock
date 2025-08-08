@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:redstone_link"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "create:transmitter"
+    },
+    {
+      "count": 1,
+      "id": "create:andesite_casing"
+    }
+  ]
+}

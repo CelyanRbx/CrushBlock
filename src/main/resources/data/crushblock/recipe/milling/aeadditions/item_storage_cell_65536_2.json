@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2additions:item_storage_cell_65536"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "ae2:item_cell_housing"
+    },
+    {
+      "count": 1,
+      "id": "ae2additions:cell_component_65536"
+    }
+  ]
+}

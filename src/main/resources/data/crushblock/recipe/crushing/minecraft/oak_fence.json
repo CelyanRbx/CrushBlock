@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_fence"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:oak_planks"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:stick"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:tinted_glass"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:glass"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:amethyst_shard"
+    }
+  ]
+}

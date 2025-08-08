@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_sign"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 6,
+      "id": "minecraft:jungle_planks"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    }
+  ]
+}

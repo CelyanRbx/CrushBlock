@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:speedometer"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:compass"
+    },
+    {
+      "count": 1,
+      "id": "create:andesite_casing"
+    }
+  ]
+}

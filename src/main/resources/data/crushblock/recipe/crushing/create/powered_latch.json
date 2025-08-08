@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:powered_latch"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:redstone_torch"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:lever"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:redstone"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:andesite"
+    }
+  ]
+}

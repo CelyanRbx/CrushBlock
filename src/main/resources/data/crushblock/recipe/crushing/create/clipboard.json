@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:clipboard"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "create:andesite_alloy"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:paper"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:oak_planks"
+    }
+  ]
+}

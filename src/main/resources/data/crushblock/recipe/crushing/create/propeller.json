@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:propeller"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "id": "create:iron_sheet"
+    },
+    {
+      "count": 1,
+      "id": "create:andesite_alloy"
+    }
+  ]
+}

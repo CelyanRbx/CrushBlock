@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:black_seat"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:black_wool"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:oak_slab"
+    }
+  ]
+}

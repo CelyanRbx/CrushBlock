@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:enchanting_table"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:obsidian"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:diamond"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:book"
+    }
+
+  ]
+}

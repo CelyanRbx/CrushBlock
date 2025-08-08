@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:mechanical_press"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "create:cogwheel"
+    },
+    {
+      "count": 1,
+      "id": "create:andesite_casing"
+    },
+    {
+      "count": 1,
+      "id": "create:whisk"
+    }
+  ]
+}

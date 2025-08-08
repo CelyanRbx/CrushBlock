@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:adjustable_chain_gearshift"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "create:encased_chain_drive"
+    },
+    {
+      "count": 1,
+      "id": "create:electron_tube"
+    }
+  ]
+}

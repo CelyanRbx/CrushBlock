@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:recovery_compass"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:compass"
+    },
+    {
+      "count": 8,
+      "id": "minecraft:echo_shard"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:red_table_cloth"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:red_wool"
+    },
+    {
+      "count": 1,
+      "id": "create:andesite_alloy"
+    }
+  ]
+}

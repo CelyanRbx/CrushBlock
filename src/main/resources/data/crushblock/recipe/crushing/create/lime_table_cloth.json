@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:lime_table_cloth"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:lime_wool"
+    },
+    {
+      "count": 1,
+      "id": "create:andesite_alloy"
+    }
+  ]
+}

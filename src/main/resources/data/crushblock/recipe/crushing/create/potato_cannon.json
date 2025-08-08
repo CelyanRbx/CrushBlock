@@ -1,0 +1,28 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:potato_cannon"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "create:andesite_alloy"
+    },
+    {
+      "count": 1,
+      "id": "create:precision_mechanism"
+    },
+    {
+      "count": 3,
+      "id": "create:fluid_pipe"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:copper_ingot"
+    }
+
+  ]
+}
