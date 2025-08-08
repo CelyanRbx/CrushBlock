@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:ladder"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 6,
+      "item": "minecraft:stick"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:oak_planks"
+    }
+  ]
+}

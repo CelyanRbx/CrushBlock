@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:bow"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:string"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:stick"
+    }
+  ]
+}

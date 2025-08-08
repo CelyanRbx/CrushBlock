@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:zip_gun"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "ad_astra:steel_plate"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:steel_rod"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:large_gas_tank"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:light_blue_toolbox"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:brown_toolbox"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:light_blue_dye"
+    }
+  ]
+}

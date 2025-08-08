@@ -1,0 +1,31 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "advanced_ae:portable_workbench_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "advanced_ae:quantum_upgrade_base"
+    },
+    {
+      "count": 1,
+      "item": "ae2:wireless_access_point"
+    },
+    {
+      "count": 2,
+      "item": "advanced_ae:quantum_processor"
+    },
+    {
+      "count": 2,
+      "item": "advanced_ae:quantum_alloy"
+    },
+    {
+      "count": 1,
+      "item": "ae2:cell_workbench"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:etrionic_blast_furnace"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 6,
+      "item": "ad_astra:iron_plate"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:redstone"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:blast_furnace"
+    }
+  ]
+}

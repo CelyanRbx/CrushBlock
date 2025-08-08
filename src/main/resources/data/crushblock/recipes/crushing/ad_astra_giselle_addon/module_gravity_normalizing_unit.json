@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra_giselle_addon:module_gravity_normalizing_unit"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "mekanism:alloy_infused"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:space_boots"
+    },
+    {
+      "count": 1,
+      "item": "mekanism:module_base"
+    },
+    {
+      "count": 1,
+      "item": "mekanism:hdpe_sheet"
+    }
+  ]
+}

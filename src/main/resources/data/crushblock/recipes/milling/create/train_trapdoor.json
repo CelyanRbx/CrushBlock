@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:train_trapdoor"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:oak_trapdoor"
+    },
+    {
+      "count": 1,
+      "item": "create:railway_casing"
+    }
+  ]
+}

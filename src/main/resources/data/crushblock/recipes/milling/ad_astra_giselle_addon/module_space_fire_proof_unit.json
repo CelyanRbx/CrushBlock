@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra_giselle_addon:module_space_fire_proof_unit"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "mekanism:alloy_reinforced"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:ostrum_plate"
+    },
+    {
+      "count": 1,
+      "item": "mekanism:module_base"
+    },
+    {
+      "count": 1,
+      "item": "mekanism:pellet_polonium"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "advanced_ae:auto_feeding_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "advanced_ae:quantum_upgrade_base"
+    },
+    {
+      "count": 1,
+      "item": "ae2:wireless_access_point"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:golden_carrot"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:glistering_melon_slice"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  ]
+}

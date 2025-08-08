@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:stock_link"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:transmitter"
+    },
+    {
+      "count": 1,
+      "item": "create:item_vault"
+    }
+  ]
+}

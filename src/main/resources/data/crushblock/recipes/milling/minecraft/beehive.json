@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:beehive"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 6,
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:honeycomb"
+    }
+  ]
+}

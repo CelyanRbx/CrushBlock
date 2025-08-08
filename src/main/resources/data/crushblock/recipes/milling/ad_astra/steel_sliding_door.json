@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:steel_sliding_door"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 6,
+      "item": "ad_astra:steel_plating"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:steel_block"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:glass_pane"
+    }
+  ]
+}

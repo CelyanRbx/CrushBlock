@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_pickaxe"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:stick"
+    }
+  ]
+}

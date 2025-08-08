@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_horse_armor"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 7,
+      "item": "minecraft:gold_ingot"
+    }
+  ]
+}

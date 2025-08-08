@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra_giselle_addon:pneumatic_space_breathing_unit"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "count": 4,
+      "item": "ad_astra:moon_stone"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:space_suit"
+    }
+  ]
+}

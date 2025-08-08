@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:netherite_space_helmet"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "ad_astra:ostrum_plate"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:netherite_helmet"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:glass"
+    }
+  ]
+}

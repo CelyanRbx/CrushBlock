@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:ostrum_sliding_door"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 6,
+      "item": "ad_astra:ostrum_plate"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:ostrum_block"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:glass_pane"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:target"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:hay_block"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:redstone"
+    }
+  ]
+}

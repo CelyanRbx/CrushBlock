@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:reinforced_door"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "ad_astra:steel_plate"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:steel_block"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:glass"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:obsidian"
+    }
+  ]
+}

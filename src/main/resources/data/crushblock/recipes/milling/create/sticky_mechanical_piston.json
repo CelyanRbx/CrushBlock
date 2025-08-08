@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:sticky_mechanical_piston"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "count": 1,
+      "item": "create:mechanical_piston"
+    }
+  ]
+}

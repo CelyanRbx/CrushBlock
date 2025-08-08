@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:etrionic_capacitor"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:redstone"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:diamond"
+    },
+    {
+      "count": 4,
+      "item": "ad_astra:steel_rod"
+    }
+  ]
+}

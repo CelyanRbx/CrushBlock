@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:extendo_grip"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:precision_mechanism"
+    },
+    {
+      "count": 6,
+      "item": "minecraft:stick"
+    },
+    {
+      "count": 1,
+      "item": "create:brass_ingot"
+    },
+    {
+      "count": 1,
+      "item": "create:brass_hand"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:aeronos_ladder"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 7,
+      "item": "ad_astra:aeronos_planks"
+    }
+  ]
+}

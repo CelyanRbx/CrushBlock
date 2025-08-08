@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:desh_factory_block"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "item": "ad_astra:desh_plate"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:desh_ingot"
+    }
+  ]
+}

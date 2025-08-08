@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:glowing_calorite_pillar"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ad_astra:calorite_pillar"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:glowstone_dust"
+    }
+  ]
+}

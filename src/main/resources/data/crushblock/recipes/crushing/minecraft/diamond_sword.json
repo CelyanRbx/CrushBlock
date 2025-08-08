@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_sword"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:diamond"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:stick"
+    }
+  ]
+}

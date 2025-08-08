@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "advanced_ae:swim_speed_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "advanced_ae:quantum_upgrade_base"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:heart_of_the_sea"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:oak_boat"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:firework_rocket"
+    }
+  ]
+}

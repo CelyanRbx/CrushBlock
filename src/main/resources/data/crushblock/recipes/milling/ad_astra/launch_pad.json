@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:launch_pad"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 5,
+      "item": "ad_astra:steel_plate"
+    },
+    {
+      "count": 4,
+      "item": "ad_astra:steel_rod"
+    }
+  ]
+}

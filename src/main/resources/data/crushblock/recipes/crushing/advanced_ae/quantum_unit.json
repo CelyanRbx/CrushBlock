@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "advanced_ae:quantum_unit"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "advanced_ae:quantum_processor"
+    },
+    {
+      "count": 1,
+      "item": "ae2:crafting_unit"
+    },
+    {
+      "count": 1,
+      "item": "ae2:singularity"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "advanced_ae:stock_export_bus_part"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:calculation_processor"
+    },
+    {
+      "count": 1,
+      "item": "ae2:export_bus"
+    },
+    {
+      "count": 1,
+      "item": "ae2:logic_processor"
+    }
+  ]
+}

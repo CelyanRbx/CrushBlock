@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:weighted_ejector"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:golden_sheet"
+    },
+    {
+      "count": 1,
+      "item": "create:depot"
+    },
+    {
+      "count": 1,
+      "item": "create:cogwheel"
+    }
+  ]
+}

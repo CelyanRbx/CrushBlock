@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:smart_chute"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:brass_sheet"
+    },
+    {
+      "count": 1,
+      "item": "create:chute"
+    },
+    {
+      "count": 1,
+      "item": "create:electron_tube"
+    }
+  ]
+}

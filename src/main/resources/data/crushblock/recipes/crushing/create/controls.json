@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:controls"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:lever"
+    },
+    {
+      "count": 1,
+      "item": "create:railway_casing"
+    },
+    {
+      "count": 1,
+      "item": "create:precision_mechanism"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:cardboard_leggings"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 7,
+      "item": "create:cardboard"
+    }
+  ]
+}

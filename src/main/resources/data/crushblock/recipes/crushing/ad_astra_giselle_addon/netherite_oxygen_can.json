@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra_giselle_addon:netherite_oxygen_can"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ad_astra:oxygen_can"
+    },
+    {
+      "count": 5,
+      "item": "ad_astra:ostrum_plate"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:netherite_ingot"
+    }
+  ]
+}

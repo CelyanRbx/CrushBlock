@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:photovoltaic_etrium_cell"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:blue_stained_glass"
+    },
+    {
+      "count": 2,
+      "item": "ad_astra:desh_plate"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:diamond"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:sand_paper"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:sand"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:paper"
+    }
+  ]
+}

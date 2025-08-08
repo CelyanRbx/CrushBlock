@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:steel_engine"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 5,
+      "item": "ad_astra:steel_plate"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:engine_frame"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:fan"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:red_sand_paper"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:red_sand"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:paper"
+    }
+  ]
+}

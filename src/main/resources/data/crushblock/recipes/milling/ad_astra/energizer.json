@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:energizer"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "count": 2,
+      "item": "ad_astra:etrionic_capacitor"
+    },
+    {
+      "count": 2,
+      "item": "ad_astra:ostrum_block"
+    },
+    {
+      "count": 4,
+      "item": "ad_astra:ostrum_plate"
+    }
+  ]
+}

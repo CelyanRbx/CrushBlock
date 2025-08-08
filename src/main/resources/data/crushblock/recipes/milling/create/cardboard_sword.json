@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:cardboard_sword"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "create:cardboard"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:stick"
+    }
+  ]
+}

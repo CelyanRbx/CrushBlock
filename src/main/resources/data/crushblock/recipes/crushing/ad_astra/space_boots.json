@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:space_boots"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "ad_astra:steel_plate"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:white_wool"
+    }
+  ]
+}

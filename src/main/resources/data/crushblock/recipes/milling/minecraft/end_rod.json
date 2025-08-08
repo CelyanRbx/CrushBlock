@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:end_rod"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  ]
+}

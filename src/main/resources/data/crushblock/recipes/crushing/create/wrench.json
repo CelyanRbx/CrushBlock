@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:wrench"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "item": "create:golden_sheet"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:stick"
+    },
+    {
+      "count": 1,
+      "item": "create:cogwheel"
+    }
+  ]
+}

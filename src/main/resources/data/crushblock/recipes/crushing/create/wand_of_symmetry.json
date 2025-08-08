@@ -1,0 +1,31 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:wand_of_symmetry"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:precision_mechanism"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "count": 1,
+      "item": "create:brass_ingot"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:obsidian"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:glass"
+    }
+  ]
+}

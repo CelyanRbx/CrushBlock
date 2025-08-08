@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:item_drain"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:iron_bars"
+    },
+    {
+      "count": 1,
+      "item": "create:copper_casing"
+    }
+  ]
+}

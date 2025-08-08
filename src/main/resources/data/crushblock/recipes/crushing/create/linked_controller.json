@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:linked_controller"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:redstone_link"
+    },
+    {
+      "count": 6,
+      "item": "minecraft:oak_button"
+    }
+  ]
+}

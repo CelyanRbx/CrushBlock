@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:dough"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:wheat_flour"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:water_bucket"
+    }
+  ]
+}

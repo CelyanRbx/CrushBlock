@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:solar_panel"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "ad_astra:desh_plate"
+    },
+    {
+      "count": 2,
+      "item": "ad_astra:steel_plate"
+    },
+    {
+      "count": 3,
+      "item": "ad_astra:photovoltaic_etrium_cell"
+    }
+  ]
+}

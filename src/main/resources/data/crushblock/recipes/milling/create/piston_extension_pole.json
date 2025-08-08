@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:piston_extension_pole"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "count": 1,
+      "item": "create:shaft"
+    }
+  ]
+}

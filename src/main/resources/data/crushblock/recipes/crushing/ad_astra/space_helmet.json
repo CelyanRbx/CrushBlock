@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:space_helmet"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 5,
+      "item": "ad_astra:steel_plate"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:glass_pane"
+    }
+  ]
+}

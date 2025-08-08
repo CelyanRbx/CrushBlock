@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:spruce_fence"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:spruce_planks"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:stick"
+    }
+  ]
+}

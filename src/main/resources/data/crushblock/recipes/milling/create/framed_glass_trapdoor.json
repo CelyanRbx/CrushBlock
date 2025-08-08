@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:framed_glass_trapdoor"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:oak_trapdoor"
+    },
+    {
+      "count": 1,
+      "item": "create:framed_glass"
+    }
+  ]
+}

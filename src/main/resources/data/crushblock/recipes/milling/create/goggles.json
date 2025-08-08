@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:goggles"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:glass"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:string"
+    },
+    {
+      "count": 1,
+      "item": "create:golden_sheet"
+    }
+  ]
+}

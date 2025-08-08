@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:beacon"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 5,
+      "item": "minecraft:glass"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:obsidian"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:nether_star"
+    }
+  ]
+}

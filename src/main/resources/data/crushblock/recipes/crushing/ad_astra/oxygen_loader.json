@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:oxygen_loader"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "ad_astra:steel_plate"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:fan"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:redstone_block"
+    }
+  ]
+}

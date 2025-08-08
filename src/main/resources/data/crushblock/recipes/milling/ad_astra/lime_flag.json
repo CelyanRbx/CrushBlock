@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:lime_flag"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:lime_wool"
+    },
+    {
+      "count": 3,
+      "item": "ad_astra:steel_rod"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "advanced_ae:throughput_monitor_configurator"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:speed_card"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:iron_ingot"
+    }
+  ]
+}

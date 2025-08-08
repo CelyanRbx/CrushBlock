@@ -1,0 +1,31 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:nasa_workbench"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "ad_astra:iron_rod"
+    },
+    {
+      "count": 3,
+      "item": "ad_astra:steel_plate"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:redstone_torch"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:crafting_table"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:steel_block"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:crossbow"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:string"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:stick"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:tripwire_hook"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:iron_ingot"
+    }
+  ]
+}

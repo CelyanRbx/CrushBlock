@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "advanced_ae:water_breathing_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "advanced_ae:quantum_upgrade_base"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:pupperfish"
+    },
+    {
+      "count": 1,
+      "item": "ae2:entropy_manipulator"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:heart_of_the_sea"
+    }
+  ]
+}

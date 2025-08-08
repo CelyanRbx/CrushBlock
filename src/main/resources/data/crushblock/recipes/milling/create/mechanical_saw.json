@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:mechanical_saw"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "item": "create:iron_sheet"
+    },
+    {
+      "count": 1,
+      "item": "create:andesite_casing"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:iron_ingot"
+    }
+  ]
+}

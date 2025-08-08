@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:cart_assembler"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "create:andesite_alloy"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:redstone"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:oak_log"
+    }
+  ]
+}

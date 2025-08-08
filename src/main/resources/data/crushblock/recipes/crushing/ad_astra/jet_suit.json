@@ -1,0 +1,31 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:jet_suit"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "ad_astra:calorite_plate"
+    },
+    {
+      "count": 2,
+      "item": "ad_astra:calorite_tank"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:netherite_space_suit"
+    },
+    {
+      "count": 2,
+      "item": "ad_astra:etrionic_capacitor"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:calorite_engine"
+    }
+  ]
+}

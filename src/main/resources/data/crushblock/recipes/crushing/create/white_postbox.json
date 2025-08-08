@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:white_postbox"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:white_dye"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:barrel"
+    },
+    {
+      "count": 1,
+      "item": "create:andesite_alloy"
+    }
+  ]
+}

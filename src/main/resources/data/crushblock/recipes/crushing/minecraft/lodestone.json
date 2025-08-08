@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:lodestone"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "item": "minecraft:chiseled_stone_bricks"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:netherite_ingot"
+    }
+  ]
+}

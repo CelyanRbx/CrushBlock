@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:schematic_and_quill"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:empty_schematic"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:feather"
+    }
+  ]
+}

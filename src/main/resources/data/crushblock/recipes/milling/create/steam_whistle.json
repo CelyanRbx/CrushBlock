@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:steam_whistle"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:golden_sheet"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:copper_ingot"
+    }
+  ]
+}

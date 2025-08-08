@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:clockwork_bearing"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:oak_slab"
+    },
+    {
+      "count": 1,
+      "item": "create:brass_casing"
+    },
+    {
+      "count": 1,
+      "item": "create:electron_tube"
+    }
+  ]
+}

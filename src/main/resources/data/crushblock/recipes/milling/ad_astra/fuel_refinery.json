@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:fuel_refinery"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 6,
+      "item": "ad_astra:steel_plate"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:bucket"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:furnace"
+    }
+  ]
+}

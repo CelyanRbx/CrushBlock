@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:blast_furnace"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:furnace"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:smooth_stone"
+    },
+    {
+      "count": 5,
+      "item": "minecraft:iron_ingot"
+    }
+  ]
+}

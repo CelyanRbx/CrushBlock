@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:calorite_plateblock"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "item": "ad_astra:calorite_plate"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:steel_rod"
+    }
+  ]
+}

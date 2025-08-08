@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "advanced_ae:shattered_singularity"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:singularity"
+    },
+    {
+      "count": 2,
+      "item": "ae2:ender_dust"
+    },
+    {
+      "count": 2,
+      "item": "ae2:sky_dust"
+    }
+  ]
+}

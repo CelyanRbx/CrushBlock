@@ -1,0 +1,31 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:tier_2_rocket"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ad_astra:rocket_nose_cone"
+    },
+    {
+      "count": 6,
+      "item": "ad_astra:desh_block"
+    },
+    {
+      "count": 4,
+      "item": "ad_astra:rocket_fin"
+    },
+    {
+      "count": 2,
+      "item": "ad_astra:desh_tank"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:desh_engine"
+    }
+  ]
+}

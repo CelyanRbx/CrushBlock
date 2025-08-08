@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "advanced_ae:lava_immunity_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "advanced_ae:quantum_upgrade_base"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:totem_of_undying"
+    },
+    {
+      "count": 2,
+      "item": "ae2:quartz_glass"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:lava_bucket"
+    }
+  ]
+}

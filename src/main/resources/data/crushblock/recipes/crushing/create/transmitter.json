@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:transmitter"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "item": "create:copper_sheet"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:redstone"
+    }
+  ]
+}

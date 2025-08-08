@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:peculiar_bell"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:brass_block"
+    },
+    {
+      "count": 1,
+      "item": "create:brass_sheet"
+    }
+  ]
+}

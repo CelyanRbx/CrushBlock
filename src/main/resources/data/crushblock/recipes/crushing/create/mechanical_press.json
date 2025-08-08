@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:mechanical_press"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:shaft"
+    },
+    {
+      "count": 1,
+      "item": "create:andesite_casing"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:iron_block"
+    }
+  ]
+}

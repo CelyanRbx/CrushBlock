@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "advanced_ae:evasion_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "advanced_ae:quantum_upgrade_base"
+    },
+    {
+      "count": 4,
+      "item": "advanced_ae:quantum_alloy_plate"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:rabbit_hide"
+    },
+    {
+      "count": 2,
+      "item": "ae2:speed_card"
+    }
+  ]
+}

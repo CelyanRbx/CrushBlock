@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:pulse_extender"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:redstone"
+    },
+    {
+      "count": 1,
+      "item": "create:brass_sheet"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:redstone_torch"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:andesite"
+    }
+  ]
+}

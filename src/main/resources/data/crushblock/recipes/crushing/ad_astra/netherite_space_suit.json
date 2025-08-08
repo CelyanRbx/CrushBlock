@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:netherite_space_suit"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "ad_astra:ostrum_plate"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:oxygen_gear"
+    },
+    {
+      "count": 2,
+      "item": "ad_astra:large_gas_tank"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:netherite_chestplate"
+    }
+  ]
+}

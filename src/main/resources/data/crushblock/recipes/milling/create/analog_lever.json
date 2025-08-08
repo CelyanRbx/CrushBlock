@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:analog_lever"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:stick"
+    },
+    {
+      "count": 1,
+      "item": "create:andesite_casing"
+    }
+  ]
+}

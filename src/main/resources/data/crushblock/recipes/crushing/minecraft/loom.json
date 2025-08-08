@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:loom"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:string"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:acacia_planks"
+    }
+  ]
+}

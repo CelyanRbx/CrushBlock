@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:engine_frame"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "item": "ad_astra:steel_rod"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:steel_plate"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "advanced_ae:hp_buffer_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "advanced_ae:quantum_upgrade_base"
+    },
+    {
+      "count": 1,
+      "item": "ae2:portable_item_cell_64k"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:totem_of_undying"
+    },
+    {
+      "count": 1,
+      "item": "ae2:importe_bus"
+    },
+    {
+      "count": 1,
+      "item": "ae2:export_bus"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:rose_quartz_lamp"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:polished_rose_quartz"
+    },
+    {
+      "count": 1,
+      "item": "create:zinc_ingot"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:redstone"
+    }
+  ]
+}

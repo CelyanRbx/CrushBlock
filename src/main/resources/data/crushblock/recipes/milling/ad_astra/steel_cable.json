@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:steel_cable"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "count": 6,
+      "item": "ad_astra:steel_plate"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:magenta_table_cloth"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:magenta_wool"
+    },
+    {
+      "count": 1,
+      "item": "create:andesite_alloy"
+    }
+  ]
+}

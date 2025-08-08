@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:brass_hand"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:andesite_alloy"
+    },
+    {
+      "count": 4,
+      "item": "create:brass_sheet"
+    }
+  ]
+}

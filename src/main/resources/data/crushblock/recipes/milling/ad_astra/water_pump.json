@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ad_astra:water_pump"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "ad_astra:steel_plate"
+    },
+    {
+      "count": 3,
+      "item": "ad_astra:desh_plate"
+    },
+    {
+      "count": 1,
+      "item": "ad_astra:gas_tank"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:hopper"
+    }
+  ]
+}

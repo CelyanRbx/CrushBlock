@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:clipboard"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:andesite_alloy"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:paper"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:oak_planks"
+    }
+  ]
+}

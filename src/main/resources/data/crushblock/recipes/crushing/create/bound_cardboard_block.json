@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:bound_cardboard_block"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "create:cardboard_block"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:string"
+    }
+  ]
+}

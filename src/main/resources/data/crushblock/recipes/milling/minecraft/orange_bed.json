@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_bed"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:orange_wool"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:dispenser"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 7,
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:bow"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:redstone"
+    }
+  ]
+}

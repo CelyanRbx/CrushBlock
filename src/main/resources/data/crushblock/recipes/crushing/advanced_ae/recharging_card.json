@@ -1,0 +1,35 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "advanced_ae:recharging_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "advanced_ae:quantum_upgrade_base"
+    },
+    {
+      "count": 1,
+      "item": "ae2:wireless_access_point"
+    },
+    {
+      "count": 2,
+      "item": "ae2:charged_staff"
+    },
+    {
+      "count": 2,
+      "item": "advanced_ae:quantum_processor"
+    },
+    {
+      "count": 2,
+      "item": "ae2:energy_card"
+    },
+    {
+      "count": 1,
+      "item": "ae2:dense_energy_cell"
+    }
+  ]
+}

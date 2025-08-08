@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "aeinfinitybooster:dimension_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "count": 4,
+      "item": "ae2infinitybooster:infinity_card"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:nether_star"
+    }
+  ]
+}

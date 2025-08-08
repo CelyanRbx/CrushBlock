@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2additions:chemical_storage_cell_1024"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "ae2:quartz_glass"
+    },
+    {
+      "count": 3,
+      "item": "mekanism:osmium_ingot"
+    },
+    {
+      "count": 3,
+      "item": "ae2:fluix_dust"
+    },
+    {
+      "count": 1,
+      "item": "ae2additions:cell_component_1024"
+    }
+  ]
+}

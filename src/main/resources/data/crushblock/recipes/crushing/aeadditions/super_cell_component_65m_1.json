@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2additions:super_cell_component_64m"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 7,
+      "item": "ae2additions:cell_component_65536"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:diamond"
+    }
+  ]
+}

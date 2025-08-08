@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:gravity_normalizer"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "count": 2,
+      "item": "ad_astra:etrionic_capacitor"
+    },
+    {
+      "count": 3,
+      "item": "ad_astra:desh_plate"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:pink_seat"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:pink_wool"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:oak_slab"
+    }
+  ]
+}

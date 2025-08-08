@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:yellow_table_cloth"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "count": 1,
+      "item": "create:andesite_alloy"
+    }
+  ]
+}
