@@ -28,6 +28,9 @@ repositories {
         name = "ModMaven"
         url = "https://modmaven.dev"
     }
+    maven {
+        url "https://cursemaven.com"
+    }
     maven { url = "https://maven.createmod.net" }
     maven { url = "https://mvn.devos.one/snapshots" }
     maven { url = "https://raw.githubusercontent.com/Fuzss/modresources/main/maven/" }
