@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "appbot:mana_cell_housing"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "ae2:quartz_glass"
+    },
+    {
+      "count": 3,
+      "item": "botania:life_essence"
+    },
+    {
+      "count": 3,
+      "item": "botania:manasteel_ingot"
+    }
+  ]
+}

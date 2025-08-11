@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "appbot:fluix_mana_pool"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "botania:fabulous_mana_pool"
+    },
+    {
+      "count": 1,
+      "item": "ae2:interface"
+    }
+  ]
+}
