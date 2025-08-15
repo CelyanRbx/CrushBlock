@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:crank"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:stick"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:copper_ingot"
+    }
+  ]
+}

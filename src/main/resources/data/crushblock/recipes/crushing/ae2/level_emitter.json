@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:level_emitter"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:redstone_torch"
+    },
+    {
+      "count": 1,
+      "item": "ae2:calculation_processor"
+    }
+  ]
+}

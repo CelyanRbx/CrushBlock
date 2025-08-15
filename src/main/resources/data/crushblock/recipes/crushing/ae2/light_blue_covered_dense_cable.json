@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:light_blue_covered_dense_cable"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "item": "ae2:fluix_covered_dense_cable"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:light_blue_dye"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:white_smart_cable"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "item": "ae2:fluix_smart_cable"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:white_dye"
+    }
+  ]
+}

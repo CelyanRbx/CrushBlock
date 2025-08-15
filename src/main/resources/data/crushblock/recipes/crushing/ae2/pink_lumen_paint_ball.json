@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:pink_lumen_paint_ball"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "item": "ae2:pink_paint_ball"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:glowstone_dust"
+    }
+  ]
+}

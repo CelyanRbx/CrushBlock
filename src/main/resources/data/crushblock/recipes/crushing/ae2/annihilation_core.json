@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:annihilation_core"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:fluix_dust"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:nether_quartz"
+    },
+    {
+      "count": 1,
+      "item": "ae2:logic_processor"
+    }
+  ]
+}

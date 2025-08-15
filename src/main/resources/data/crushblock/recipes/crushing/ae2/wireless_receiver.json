@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:wireless_receiver"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "item": "ae2:fluix_pearl"
+    },
+    {
+      "count": 1,
+      "item": "ae2:quartz_fiber"
+    }
+  ]
+}

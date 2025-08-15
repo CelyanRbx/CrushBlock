@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:pattern_encoding_terminal"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:engineering_processor"
+    },
+    {
+      "count": 1,
+      "item": "ae2:crafting_terminal"
+    }
+  ]
+}

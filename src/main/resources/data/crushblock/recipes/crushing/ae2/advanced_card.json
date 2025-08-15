@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:advanced_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:diamond"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:redstone"
+    },
+    {
+      "count": 1,
+      "item": "ae2:calculation_processor"
+    }
+  ]
+}

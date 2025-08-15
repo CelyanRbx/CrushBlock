@@ -1,0 +1,31 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:spatial_io_port"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:glass"
+    },
+    {
+      "count": 2,
+      "item": "ae2:fluix_glass_cable"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "item": "ae2:io_port"
+    },
+    {
+      "count": 1,
+      "item": "ae2:engineering_processor"
+    }
+  ]
+}

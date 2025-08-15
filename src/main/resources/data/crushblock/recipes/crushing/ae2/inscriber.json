@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:inscriber"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 5,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:piston"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:equal_distribution_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:calculation_processor"
+    },
+    {
+      "count": 1,
+      "item": "ae2:advanced_card"
+    }
+  ]
+}

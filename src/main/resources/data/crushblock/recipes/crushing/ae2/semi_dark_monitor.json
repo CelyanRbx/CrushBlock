@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:semi_dark_monitor"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:redstone"
+    },
+    {
+      "count": 3,
+      "item": "ae2:quartz_glass"
+    }
+  ]
+}

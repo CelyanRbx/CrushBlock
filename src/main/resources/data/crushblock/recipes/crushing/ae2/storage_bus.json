@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:storage_bus"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:piston"
+    },
+    {
+      "count": 1,
+      "item": "ae2:interface"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:energy_level_emitter"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:redstone_torch"
+    },
+    {
+      "count": 1,
+      "item": "ae2:calculation_processor"
+    },
+    {
+      "count": 1,
+      "item": "ae2:charged_certus_quartz_crystal"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:charged_staff"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:charged_certus_quartz_crystal"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:iron_ingot"
+    }
+  ]
+}
