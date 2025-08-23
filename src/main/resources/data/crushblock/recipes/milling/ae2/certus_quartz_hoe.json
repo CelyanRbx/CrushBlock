@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:certus_quartz_hoe"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "ae2:certus_quartz_crystal"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:stick"
+    }
+  ]
+}

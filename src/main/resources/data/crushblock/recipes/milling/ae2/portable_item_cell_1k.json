@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:portable_item_cell_1k"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:chest"
+    },
+    {
+      "count": 1,
+      "item": "ae2:cell_component_1k"
+    },
+    {
+      "count": 1,
+      "item": "ae2:energy_cell"
+    },
+    {
+      "count": 1,
+      "item": "ae2:item_cell_housing"
+    }
+  ]
+}

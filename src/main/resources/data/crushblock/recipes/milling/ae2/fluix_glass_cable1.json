@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:fluix_glass_cable"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:quartz_fiber"
+    },
+    {
+      "count": 2,
+      "item": "ae2:fluix_crystal"
+    }
+  ]
+}

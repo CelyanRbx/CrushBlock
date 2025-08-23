@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:storage_monitor"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:level_emitter"
+    },
+    {
+      "count": 1,
+      "item": "ae2:semi_dark_monitor"
+    }
+  ]
+}

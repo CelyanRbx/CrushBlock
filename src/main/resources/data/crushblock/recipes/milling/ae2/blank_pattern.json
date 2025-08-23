@@ -1,0 +1,31 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:blank_pattern"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "ae2:quartz_glass"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "count": 1,
+      "item": "ae2:certus_quartz_crystal"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:copper_ingot"
+    }
+  ]
+}

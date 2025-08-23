@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:interface"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:glass"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "item": "ae2:annihilation_core"
+    },
+    {
+      "count": 1,
+      "item": "ae2:formation_core"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:annihilation_plane"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "item": "ae2:annihilation_core"
+    },
+    {
+      "count": 3,
+      "item": "ae2:fluix_crystal"
+    }
+  ]
+}

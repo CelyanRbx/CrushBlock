@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:color_application"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:formation_core"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "item": "ae2:cell_component_4k"
+    },
+    {
+      "count": 1,
+      "item": "ae2:energy_cell"
+    }
+  ]
+}

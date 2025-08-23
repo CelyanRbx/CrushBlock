@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:vibrant_quartz_glass"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "item": "ae2:quartz_glass"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:glowstone_dust"
+    }
+  ]
+}
