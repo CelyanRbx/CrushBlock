@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:energy_cell"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "id": "ae2:certus_quartz_crystal"
+    },
+    {
+      "count": 4,
+      "id": "ae2:fluix_dust"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quartz_glass"
+    }
+  ]
+}

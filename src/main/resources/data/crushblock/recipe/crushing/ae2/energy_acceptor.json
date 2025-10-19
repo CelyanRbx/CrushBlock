@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:energy_acceptor"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:copper_ingot"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 4,
+      "id": "ae2:quartz_glass"
+    }
+  ]
+}

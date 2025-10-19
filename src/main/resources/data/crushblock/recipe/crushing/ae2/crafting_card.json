@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:crafting_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:crafting_table"
+    },
+    {
+      "count": 1,
+      "id": "ae2:basic_card"
+    }
+  ]
+}

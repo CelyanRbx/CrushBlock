@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:red_lumen_paint_ball"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "id": "ae2:red_paint_ball"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:glowstone_dust"
+    }
+  ]
+}

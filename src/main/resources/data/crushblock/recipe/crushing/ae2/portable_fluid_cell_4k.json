@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:portable_fluid_cell_4k"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "ae2:chest"
+    },
+    {
+      "count": 1,
+      "id": "ae2:cell_component_4k"
+    },
+    {
+      "count": 1,
+      "id": "ae2:energy_cell"
+    },
+    {
+      "count": 1,
+      "id": "ae2:fluid_cell_housing"
+    }
+  ]
+}

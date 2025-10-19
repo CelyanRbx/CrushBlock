@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:crystal_resonance_generator"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:copper_ingot"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "id": "ae2:fluix_block"
+    },
+    {
+      "count": 1,
+      "id": "ae2:charged_certus_quartz_crystal"
+    }
+  ]
+}

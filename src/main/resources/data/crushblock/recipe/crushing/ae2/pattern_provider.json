@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:pattern_provider"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:crafting_table"
+    },
+    {
+      "count": 1,
+      "id": "ae2:formation_core"
+    },
+    {
+      "count": 1,
+      "id": "ae2:annihilation_core"
+    }
+  ]
+}

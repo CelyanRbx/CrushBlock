@@ -1,0 +1,35 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:not_so_mysterious_cube"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 4,
+      "id": "ae2:smooth_sky_stone"
+    },
+    {
+      "count": 1,
+      "id": "ae2:calculation_processor_press"
+    },
+    {
+      "count": 1,
+      "id": "ae2:engineering_processor_press"
+    },
+    {
+      "count": 1,
+      "id": "ae2:silicon_press"
+    },
+    {
+      "count": 1,
+      "id": "ae2:logic_processor_press"
+    },
+    {
+      "count": 1,
+      "id": "ae2:controller"
+    }
+  ]
+}
