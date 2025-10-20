@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:yellow_covered_dense_cable"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "id": "ae2:fluix_covered_dense_cable"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:yellow_dye"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:yellow_lumen_paint_ball"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "id": "ae2:yellow_paint_ball"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:glowstone_dust"
+    }
+  ]
+}

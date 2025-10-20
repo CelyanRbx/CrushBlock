@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:spatial_storage_cell_128"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 2,
+      "id": "ae2:quartz_glass"
+    },
+    {
+      "count": 1,
+      "id": "ae2:spatial_cell_component_128"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:redstone"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:iron_ingot"
+    }
+  ]
+}
