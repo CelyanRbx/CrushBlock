@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:crafting_terminal"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "ae2:calculation_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:terminal"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:crafting_table"
+    }
+  ]
+}

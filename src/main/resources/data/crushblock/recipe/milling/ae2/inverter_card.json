@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:inverter_card"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:redstone_torch"
+    },
+    {
+      "count": 1,
+      "id": "ae2:advanced_card"
+    }
+  ]
+}

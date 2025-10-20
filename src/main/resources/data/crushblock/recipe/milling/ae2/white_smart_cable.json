@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:white_smart_cable"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "id": "ae2:fluix_smart_cable"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:white_dye"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:terminal"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "ae2:logic_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:formation_core"
+    },
+    {
+      "count": 1,
+      "id": "ae2:annihilation_core"
+    },
+    {
+      "count": 1,
+      "id": "ae2:semi_dark_monitor"
+    }
+  ]
+}

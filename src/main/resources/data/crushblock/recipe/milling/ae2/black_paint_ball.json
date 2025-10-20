@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:black_paint_ball"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "id": "ae2:matter_ball"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:black_dye"
+    }
+  ]
+}

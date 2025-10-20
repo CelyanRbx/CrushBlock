@@ -1,0 +1,31 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:spatial_anchor"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 3,
+      "id": "ae2:spatial_pylon"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 2,
+      "id": "ae2:fluix_glass_cable"
+    },
+    {
+      "count": 1,
+      "id": "ae2:spatial_cell_component_128"
+    },
+    {
+      "count": 1,
+      "id": "ae2:engineering_processor"
+    }
+  ]
+}

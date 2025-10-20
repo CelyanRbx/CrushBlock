@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:quartz_fixture"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 1,
+      "id": "ae2:charged_certus_quartz_crystal"
+    },
+    {
+      "count": 1,
+      "id": "ae2:cable_anchor"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "ae2:sky_stone_tank"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "count": 8,
+      "id": "ae2:sky_stone"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quartz_glass"
+    }
+  ]
+}
