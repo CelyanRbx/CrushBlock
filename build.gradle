@@ -97,6 +97,8 @@ dependencies {
     runtimeOnly("dev.engine-room.flywheel:flywheel-neoforge-${minecraft_version}:${flywheel_version}")
     implementation("com.tterrag.registrate:Registrate:${registrate_version}")
 
+    implementation "curse.maven:aeinfinitybooster-559313:7402808"
+    implementation "curse.maven:ae2-import-export-card-982512:8033654"
     implementation "curse.maven:ex-pattern-provider-892005:8025439"
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:advancedae-1084104:7849217"
