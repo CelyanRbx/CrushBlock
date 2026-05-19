@@ -17,8 +17,11 @@ import net.neoforged.neoforge.items.SlotItemHandler;
 public class CrusherMenu extends AbstractContainerMenu {
     private final CrusherBlockEntity blockEntity;
     private final ContainerLevelAccess levelAccess;
+
     private final DataSlot progressData    = DataSlot.standalone();
     private final DataSlot maxProgressData = DataSlot.standalone();
+    private final DataSlot energyHigh      = DataSlot.standalone();
+    private final DataSlot energyLow       = DataSlot.standalone();
 
     public CrusherMenu(int id, Inventory playerInventory, CrusherBlockEntity be) {
         super(ModMenuTypes.CRUSHER_MENU.get(), id);
@@ -28,6 +31,8 @@ public class CrusherMenu extends AbstractContainerMenu {
         addPlayerSlots(playerInventory);
         addDataSlot(progressData);
         addDataSlot(maxProgressData);
+        addDataSlot(energyHigh);
+        addDataSlot(energyLow);
     }
 
     public CrusherMenu(int id, Inventory playerInventory, FriendlyByteBuf buf) {
@@ -96,6 +101,10 @@ public class CrusherMenu extends AbstractContainerMenu {
     public void broadcastChanges() {
         progressData.set(blockEntity.getProgress());
         maxProgressData.set(blockEntity.getMaxProgress());
+        // Énergie encodée sur 2 shorts (DataSlot = short 16bit)
+        int energy = blockEntity.getEnergy();
+        energyHigh.set((energy >> 16) & 0xFFFF);
+        energyLow.set(energy & 0xFFFF);
         super.broadcastChanges();
     }
 
@@ -104,5 +113,13 @@ public class CrusherMenu extends AbstractContainerMenu {
     public float getProgressPercent() {
         int max = getMaxProgress();
         return max == 0 ? 0f : (float) getProgress() / max;
+    }
+
+    public int getEnergy() {
+        return ((energyHigh.get() & 0xFFFF) << 16) | (energyLow.get() & 0xFFFF);
+    }
+    public int getMaxEnergy() { return CrusherBlockEntity.MAX_ENERGY; }
+    public float getEnergyPercent() {
+        return getMaxEnergy() == 0 ? 0f : (float) getEnergy() / getMaxEnergy();
     }
 }

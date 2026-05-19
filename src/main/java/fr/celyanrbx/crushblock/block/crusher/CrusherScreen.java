@@ -6,17 +6,19 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.entity.player.Inventory;
 
+import java.util.List;
+
 public class CrusherScreen extends AbstractContainerScreen<CrusherMenu> {
     private static final ResourceLocation TEXTURE =
             ResourceLocation.fromNamespaceAndPath("crushblock", "textures/gui/crusher_gui.png");
 
-    // Flèche : position dans le GUI et taille du sprite
-    private static final int ARROW_X      = 85;
-    private static final int ARROW_Y      = 41;  // y dans le GUI
-    private static final int ARROW_W      = 9;   // largeur totale flèche
-    private static final int ARROW_H      = 14;  // hauteur totale flèche
-    private static final int ARROW_U      = 176; // x du sprite dans la texture
-    private static final int ARROW_V      = 41;  // y du sprite dans la texture
+    private static final int ARROW_X = 85, ARROW_Y = 41;
+    private static final int ARROW_W = 9,  ARROW_H = 14;
+    private static final int ARROW_U = 176, ARROW_V = 41;
+
+    private static final int BAR_X = 8,  BAR_Y = 21;
+    private static final int BAR_W = 8,  BAR_H = 52;
+    private static final int BAR_U = 185, BAR_V = 21;
 
     public CrusherScreen(CrusherMenu menu, Inventory playerInventory, Component title) {
         super(menu, playerInventory, title);
@@ -33,23 +35,26 @@ public class CrusherScreen extends AbstractContainerScreen<CrusherMenu> {
         int x = (this.width  - this.imageWidth)  / 2;
         int y = (this.height - this.imageHeight) / 2;
 
-        // Fond principal
         graphics.blit(TEXTURE, x, y, 0, 0, 176, 196, 196, 196);
 
-        // Flèche animée : on dessine progressivement de haut en bas
-        float progress = this.menu.getProgressPercent();
-        int filledHeight = (int) (ARROW_H * progress); // 0 → 14px
-
-        if (filledHeight > 0) {
+        int progressH = (int)(ARROW_H * this.menu.getProgressPercent());
+        if (progressH > 0) {
             graphics.blit(TEXTURE,
-                    x + ARROW_X,           // destination x
-                    y + ARROW_Y,           // destination y
-                    ARROW_U,               // source u (sprite dans texture)
-                    ARROW_V,               // source v
-                    ARROW_W,               // largeur à dessiner
-                    filledHeight,          // hauteur progressivement remplie
-                    196, 196               // taille totale texture
-            );
+                    x + ARROW_X, y + ARROW_Y,
+                    ARROW_U, ARROW_V,
+                    ARROW_W, progressH,
+                    196, 196);
+        }
+
+        float energyPct = this.menu.getEnergyPercent();
+        int energyH = (int)(BAR_H * energyPct);
+        if (energyH > 0) {
+            graphics.blit(TEXTURE,
+                    x + BAR_X + 1,
+                    y + BAR_Y + 1 + (BAR_H - energyH),
+                    BAR_U, BAR_V + (BAR_H - energyH),
+                    BAR_W, energyH,
+                    196, 196);
         }
     }
 
@@ -57,6 +62,19 @@ public class CrusherScreen extends AbstractContainerScreen<CrusherMenu> {
     public void render(GuiGraphics graphics, int mouseX, int mouseY, float partialTick) {
         super.render(graphics, mouseX, mouseY, partialTick);
         this.renderTooltip(graphics, mouseX, mouseY);
+
+        int x = (this.width  - this.imageWidth)  / 2;
+        int y = (this.height - this.imageHeight) / 2;
+
+        if (mouseX >= x + BAR_X && mouseX <= x + BAR_X + 10
+                && mouseY >= y + BAR_Y && mouseY <= y + BAR_Y + 54) {
+            graphics.renderTooltip(this.font,
+                    List.of(
+                            Component.literal(this.menu.getEnergy() + " / "
+                                    + this.menu.getMaxEnergy() + " FE")
+                    ),
+                    java.util.Optional.empty(), mouseX, mouseY);
+        }
     }
 
     @Override

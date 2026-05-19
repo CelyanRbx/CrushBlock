@@ -10,20 +10,12 @@ import net.neoforged.neoforge.registries.DeferredHolder;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
 public class ModBlockEntities {
-    public static final DeferredRegister<BlockEntityType<?>> BLOCK_ENTITIES =
-            DeferredRegister.create(BuiltInRegistries.BLOCK_ENTITY_TYPE, "crushblock");
+    public static final DeferredRegister<BlockEntityType<?>> BLOCK_ENTITIES = DeferredRegister.create(BuiltInRegistries.BLOCK_ENTITY_TYPE, "crushblock");
 
-    public static final DeferredHolder<BlockEntityType<?>, BlockEntityType<CrusherBlockEntity>> CRUSHER_BE =
-            BLOCK_ENTITIES.register("crusher_be",
-                    () -> BlockEntityType.Builder
-                            .of(CrusherBlockEntity::new, ModBlocks.CRUSHER.get())
-                            .build(null));
+    public static final DeferredHolder<BlockEntityType<?>, BlockEntityType<CrusherBlockEntity>> CRUSHER_BE = BLOCK_ENTITIES.register("crusher_be", () -> BlockEntityType.Builder.of(CrusherBlockEntity::new, ModBlocks.CRUSHER.get()).build(null));
 
     public static void registerCapabilities(RegisterCapabilitiesEvent event) {
-        event.registerBlockEntity(
-                Capabilities.ItemHandler.BLOCK,
-                CRUSHER_BE.get(),
-                (be, side) -> be.getItemHandler(side)
-        );
+        event.registerBlockEntity(Capabilities.ItemHandler.BLOCK, CRUSHER_BE.get(), (be, side) -> be.getItemHandler(side));
+        event.registerBlockEntity(Capabilities.EnergyStorage.BLOCK, CRUSHER_BE.get(), (be, side) -> be.getEnergyHandler());
     }
 }
