@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "advanced_ae:camo_card"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 3,
+      "id": "minecraft:nether_wart"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:fermented_spider_eye"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:golden_carrot"
+    },
+    {
+      "count": 1,
+      "id": "advanced_ae:quantum_upgrade_base"
+    }
+  ],
+  "processingTime": 400
+}

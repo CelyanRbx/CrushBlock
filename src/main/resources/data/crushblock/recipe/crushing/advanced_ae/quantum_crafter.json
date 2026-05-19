@@ -1,18 +1,17 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "advanced_ae:quantum_crafter"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 4,
       "id": "advanced_ae:shattered_singularity"
     },
     {
-      "count": 1,
+      "count": 2,
       "id": "ae2:cell_component_64k"
     },
     {
@@ -23,5 +22,6 @@
       "count": 1,
       "id": "advanced_ae:quantum_unit"
     }
-  ]
+  ],
+  "processingTime": 400
 }

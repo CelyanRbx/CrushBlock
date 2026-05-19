@@ -2,25 +2,25 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "advanced_ae:lava_immunity_card"
+      "item": "advanced_ae:adv_pattern_provider"
     }
   ],
   "outputs": [
     {
       "count": 1,
-      "id": "advanced_ae:quantum_upgrade_base"
+      "id": "extendedae:ex_pattern_provider"
     },
     {
       "count": 1,
-      "id": "minecraft:totem_of_undying"
-    },
-    {
-      "count": 2,
-      "id": "ae2:quartz_glass"
+      "id": "minecraft:redstone"
     },
     {
       "count": 1,
-      "id": "minecraft:lava_bucket"
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "count": 1,
+      "id": "ae2:logic_processor"
     }
   ],
   "processingTime": 400

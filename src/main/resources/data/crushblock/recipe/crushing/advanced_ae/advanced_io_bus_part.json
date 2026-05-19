@@ -2,17 +2,17 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "advanced_ae:sprint_speed_card"
+      "item": "advanced_ae:advanced_io_bus_part"
     }
   ],
   "outputs": [
     {
-      "count": 4,
-      "id": "minecraft:redstone"
+      "count": 2,
+      "id": "advanced_ae:stock_export_bus_part"
     },
     {
-      "count": 1,
-      "id": "advanced_ae:quantum_upgrade_base"
+      "count": 3,
+      "id": "advanced_ae:quantum_processor"
     },
     {
       "count": 4,

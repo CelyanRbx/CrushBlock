@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "advanced_ae:quantum_leggings"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 4,
       "id": "advanced_ae:quantum_processor"
@@ -27,5 +26,6 @@
       "count": 1,
       "id": "advanced_ae:quantum_storage_component"
     }
-  ]
+  ],
+  "processingTime": 400
 }

@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "advanced_ae:quantum_core"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 2,
       "id": "advanced_ae:shattered_singularity"
@@ -27,5 +26,6 @@
       "count": 4,
       "id": "ae2:singularity"
     }
-  ]
+  ],
+  "processingTime": 400
 }

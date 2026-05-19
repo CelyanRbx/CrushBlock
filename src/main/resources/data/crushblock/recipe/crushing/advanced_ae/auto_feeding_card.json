@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "advanced_ae:auto_feeding_card"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 1,
       "id": "advanced_ae:quantum_upgrade_base"
@@ -27,5 +26,6 @@
       "count": 1,
       "id": "minecraft:enchanted_golden_apple"
     }
-  ]
+  ],
+  "processingTime": 400
 }

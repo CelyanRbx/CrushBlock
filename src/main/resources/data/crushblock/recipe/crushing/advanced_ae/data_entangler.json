@@ -1,14 +1,13 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "advanced_ae:data_entangler"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
-      "count": 4,
+      "count": 8,
       "id": "advanced_ae:shattered_singularity"
     },
     {
@@ -23,5 +22,6 @@
       "count": 1,
       "id": "advanced_ae:quantum_core"
     }
-  ]
+  ],
+  "processingTime": 400
 }

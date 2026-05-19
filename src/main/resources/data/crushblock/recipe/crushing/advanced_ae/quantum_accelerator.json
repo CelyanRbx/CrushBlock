@@ -1,23 +1,23 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "advanced_ae:quantum_accelerator"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 4,
       "id": "advanced_ae:shattered_singularity"
     },
     {
       "count": 4,
-      "id": "advanced_ae:quantum_processor"
+      "id": "extendedae:concurrent_processor"
     },
     {
       "count": 1,
       "id": "advanced_ae:quantum_unit"
     }
-  ]
+  ],
+  "processingTime": 400
 }

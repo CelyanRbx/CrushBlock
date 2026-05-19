@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "advanced_ae:quantum_alloy_plate"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 8,
       "id": "advanced_ae:quantum_alloy"
@@ -19,5 +18,6 @@
       "count": 1,
       "id": "minecraft:nether_star"
     }
-  ]
+  ],
+  "processingTime": 400
 }

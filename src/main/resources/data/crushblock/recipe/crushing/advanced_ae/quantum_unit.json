@@ -1,15 +1,14 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "advanced_ae:quantum_unit"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
-      "count": 2,
-      "id": "advanced_ae:quantum_processor"
+      "count": 1,
+      "id": "extendedae:concurrent_processor"
     },
     {
       "count": 1,
@@ -19,5 +18,6 @@
       "count": 1,
       "id": "ae2:singularity"
     }
-  ]
+  ],
+  "processingTime": 400
 }

@@ -2,17 +2,17 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "advanced_ae:throughput_monitor"
+      "item": "advanced_ae:quantum_crafter_terminal"
     }
   ],
   "outputs": [
     {
       "count": 1,
-      "id": "ae2:calculation_processor"
+      "id": "advanced_ae:quantum_processor"
     },
     {
       "count": 1,
-      "id": "ae2:storage_monitor"
+      "id": "ae2:pattern_access_terminal"
     }
   ],
   "processingTime": 400

@@ -2,21 +2,21 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "advanced_ae:import_export_bus_part"
+      "item": "advanced_ae:wireless_quantum_crafter_terminal"
     }
   ],
   "outputs": [
     {
       "count": 1,
-      "id": "ae2:import_bus"
+      "id": "ae2:wireless_receiver"
     },
     {
       "count": 1,
-      "id": "ae2:logic_processor"
+      "id": "advanced_ae:quantum_crafter_terminal"
     },
     {
       "count": 1,
-      "id": "ae2:export_bus"
+      "id": "ae2:dense_energy_cell"
     }
   ],
   "processingTime": 400
