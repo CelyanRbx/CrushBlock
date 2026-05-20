@@ -2,7 +2,7 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "extendedae:circuit_slicer"
+      "item": "extendedae:circuit_cutter"
     }
   ],
   "outputs": [
