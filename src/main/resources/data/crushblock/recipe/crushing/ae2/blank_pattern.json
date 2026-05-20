@@ -1,31 +1,27 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:blank_pattern"
     }
   ],
-  "processingTime": 400,
-  "results": [
-    {
-      "count": 2,
-      "id": "ae2:quartz_glass"
-    },
+  "outputs": [
     {
       "count": 3,
       "id": "minecraft:glowstone_dust"
     },
     {
       "count": 1,
-      "id": "ae2:certus_quartz_crystal"
+      "id": "minecraft:copper_ingot"
     },
     {
       "count": 2,
       "id": "minecraft:iron_ingot"
     },
     {
-      "count": 1,
-      "id": "minecraft:copper_ingot"
+      "count": 2,
+      "id": "ae2:quartz_glass"
     }
-  ]
+  ],
+  "processingTime": 400
 }

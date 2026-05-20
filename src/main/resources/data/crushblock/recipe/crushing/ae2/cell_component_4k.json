@@ -1,19 +1,18 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
-      "item": "ae2:cell_component_4k"
+      "item": "ae2:cell_component_1k"
     }
   ],
-  "processingTime": 400,
-  "results": [
-    {
-      "count": 4,
-      "id": "minecraft:redstone"
-    },
+  "outputs": [
     {
       "count": 3,
       "id": "ae2:cell_component_1k"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:redstone"
     },
     {
       "count": 1,
@@ -23,5 +22,6 @@
       "count": 1,
       "id": "ae2:quartz_glass"
     }
-  ]
+  ],
+  "processingTime": 400
 }

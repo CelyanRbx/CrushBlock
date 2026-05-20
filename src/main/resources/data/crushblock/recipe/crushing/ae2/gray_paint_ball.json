@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:gray_paint_ball"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 8,
       "id": "ae2:matter_ball"
@@ -15,5 +14,6 @@
       "count": 1,
       "id": "minecraft:gray_dye"
     }
-  ]
+  ],
+  "processingTime": 400
 }

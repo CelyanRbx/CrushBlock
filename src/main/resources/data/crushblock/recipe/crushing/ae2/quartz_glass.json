@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:quartz_glass"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 5,
       "id": "ae2:certus_quartz_dust"
@@ -15,5 +14,6 @@
       "count": 4,
       "id": "minecraft:glass"
     }
-  ]
+  ],
+  "processingTime": 400
 }

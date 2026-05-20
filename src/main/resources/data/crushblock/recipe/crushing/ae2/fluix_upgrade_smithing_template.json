@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:fluix_upgrade_smithing_template"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 1,
       "id": "ae2:fluix_crystal"
@@ -15,5 +14,6 @@
       "count": 1,
       "id": "minecraft:paper"
     }
-  ]
+  ],
+  "processingTime": 400
 }

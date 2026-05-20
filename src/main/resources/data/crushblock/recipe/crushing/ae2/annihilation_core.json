@@ -1,23 +1,23 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:annihilation_core"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 1,
-      "id": "ae2:fluix_dust"
-    },
-    {
-      "count": 1,
-      "id": "minecraft:nether_quartz"
+      "id": "minecraft:quartz"
     },
     {
       "count": 1,
       "id": "ae2:logic_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:fluix_dust"
     }
-  ]
+  ],
+  "processingTime": 400
 }

@@ -1,23 +1,23 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:condenser"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
-      "count": 4,
-      "id": "minecraft:glass"
+      "count": 1,
+      "id": "ae2:fluix_dust"
     },
     {
       "count": 4,
       "id": "minecraft:iron_ingot"
     },
     {
-      "count": 1,
-      "id": "ae2:fluix_dust"
+      "count": 4,
+      "id": "minecraft:glass"
     }
-  ]
+  ],
+  "processingTime": 400
 }

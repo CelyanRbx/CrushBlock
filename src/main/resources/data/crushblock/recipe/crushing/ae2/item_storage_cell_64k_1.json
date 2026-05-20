@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:item_storage_cell_64k"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 1,
       "id": "ae2:item_cell_housing"
@@ -15,5 +14,6 @@
       "count": 1,
       "id": "ae2:cell_component_64k"
     }
-  ]
+  ],
+  "processingTime": 400
 }

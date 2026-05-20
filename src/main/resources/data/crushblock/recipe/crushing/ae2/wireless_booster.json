@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:wireless_booster"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 3,
       "id": "minecraft:iron_ingot"
@@ -23,5 +22,6 @@
       "count": 1,
       "id": "ae2:ender_dust"
     }
-  ]
+  ],
+  "processingTime": 400
 }

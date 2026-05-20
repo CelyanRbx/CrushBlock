@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:semi_dark_monitor"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 2,
       "id": "minecraft:glowstone_dust"
@@ -23,5 +22,6 @@
       "count": 3,
       "id": "ae2:quartz_glass"
     }
-  ]
+  ],
+  "processingTime": 400
 }

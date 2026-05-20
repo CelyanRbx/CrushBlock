@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:black_smart_dense_cable"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 8,
       "id": "ae2:fluix_smart_dense_cable"
@@ -15,5 +14,6 @@
       "count": 1,
       "id": "minecraft:black_dye"
     }
-  ]
+  ],
+  "processingTime": 400
 }

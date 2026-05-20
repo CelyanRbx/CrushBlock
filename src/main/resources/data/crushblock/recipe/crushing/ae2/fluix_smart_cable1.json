@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:fluix_smart_cable"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 1,
       "id": "ae2:fluix_covered_cable"
@@ -19,5 +18,6 @@
       "count": 1,
       "id": "minecraft:glowstone_dust"
     }
-  ]
+  ],
+  "processingTime": 400
 }

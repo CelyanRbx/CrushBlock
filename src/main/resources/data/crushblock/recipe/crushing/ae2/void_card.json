@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:void_card"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 1,
       "id": "ae2:calculation_processor"
@@ -15,5 +14,6 @@
       "count": 1,
       "id": "ae2:basic_card"
     }
-  ]
+  ],
+  "processingTime": 400
 }

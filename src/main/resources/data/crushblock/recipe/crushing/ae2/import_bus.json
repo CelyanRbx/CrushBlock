@@ -1,12 +1,11 @@
 {
-  "type": "create:crushing",
-  "ingredients": [
+  "type": "crushblock:crushing",
+  "ingredient": [
     {
       "item": "ae2:import_bus"
     }
   ],
-  "processingTime": 400,
-  "results": [
+  "outputs": [
     {
       "count": 1,
       "id": "minecraft:piston"
@@ -19,5 +18,6 @@
       "count": 1,
       "id": "ae2:annihilation_core"
     }
-  ]
+  ],
+  "processingTime": 400
 }
