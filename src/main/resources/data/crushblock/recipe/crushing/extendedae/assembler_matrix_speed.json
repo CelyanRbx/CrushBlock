@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:assembler_matrix_speed"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "extendedae:assembler_matrix_wall"
+    },
+    {
+      "count": 8,
+      "id": "ae2:speed_card"
+    },
+    {
+      "count": 6,
+      "id": "ae2:purple_lumen_paint_ball"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:concurrent_processor"
+    }
+  ],
+  "processingTime": 400
+}

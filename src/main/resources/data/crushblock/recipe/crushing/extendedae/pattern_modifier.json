@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:pattern_modifier"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "minecraft:green_dye"
+    },
+    {
+      "count": 1,
+      "id": "ae2:blank_pattern"
+    },
+    {
+      "count": 1,
+      "id": "ae2:logic_processor"
+    }
+  ],
+  "processingTime": 400
+}

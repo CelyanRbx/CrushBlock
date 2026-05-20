@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:mod_export_bus"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "minecraft:redstone"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:book"
+    },
+    {
+      "count": 1,
+      "id": "ae2:export_bus"
+    },
+    {
+      "count": 1,
+      "id": "ae2:calculation_processor"
+    }
+  ],
+  "processingTime": 400
+}

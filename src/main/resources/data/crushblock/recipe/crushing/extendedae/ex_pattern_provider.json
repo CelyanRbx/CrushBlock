@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:ex_pattern_provider"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 6,
+      "id": "ae2:fluix_glass_cable"
+    },
+    {
+      "count": 1,
+      "id": "ae2:pattern_provider"
+    },
+    {
+      "count": 3,
+      "id": "ae2:capacity_card"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:concurrent_processor"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:crafting_table"
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,15 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:fishbig"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 8,
+      "id": "minecraft:pufferfish"
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,15 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:mddyue"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 8,
+      "id": "minecraft:egg"
+    }
+  ],
+  "processingTime": 400
+}

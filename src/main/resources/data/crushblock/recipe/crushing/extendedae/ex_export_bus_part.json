@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:ex_export_bus_part"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "minecraft:piston"
+    },
+    {
+      "count": 3,
+      "id": "ae2:speed_card"
+    },
+    {
+      "count": 1,
+      "id": "ae2:export_bus"
+    },
+    {
+      "count": 1,
+      "id": "ae2:formation_core"
+    }
+  ],
+  "processingTime": 400
+}

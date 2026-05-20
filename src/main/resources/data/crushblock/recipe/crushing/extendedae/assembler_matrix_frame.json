@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:assembler_matrix_frame"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "extendedae:machine_frame"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:lapis_lazuli"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:quartz"
+    }
+  ],
+  "processingTime": 400
+}

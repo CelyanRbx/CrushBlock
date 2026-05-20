@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:void_cell"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 3,
+      "id": "minecraft:amethyst_shard"
+    },
+    {
+      "count": 2,
+      "id": "ae2:quartz_glass"
+    },
+    {
+      "count": 1,
+      "id": "ae2:condenser"
+    },
+    {
+      "count": 2,
+      "id": "ae2:void_card"
+    },
+    {
+      "count": 1,
+      "id": "ae2:cell_component_16k"
+    }
+  ],
+  "processingTime": 400
+}

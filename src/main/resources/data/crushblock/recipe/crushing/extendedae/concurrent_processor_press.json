@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:concurrent_processor_press"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 3,
+      "id": "minecraft:ender_eye"
+    },
+    {
+      "count": 1,
+      "id": "ae2:silicon_press"
+    },
+    {
+      "count": 4,
+      "id": "extendedae:entro_crystal"
+    }
+  ],
+  "processingTime": 400
+}

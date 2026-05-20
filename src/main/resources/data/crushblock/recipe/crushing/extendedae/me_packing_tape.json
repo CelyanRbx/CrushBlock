@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:me_packing_tape"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "minecraft:slime_ball"
+    },
+    {
+      "count": 1,
+      "id": "ae2:fluix_dust"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:paper"
+    }
+  ],
+  "processingTime": 400
+}

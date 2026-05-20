@@ -1,0 +1,43 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:circuit_slicer"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 8,
+      "id": "ae2:engineering_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:calculation_processor_press"
+    },
+    {
+      "count": 1,
+      "id": "ae2:engineering_processor_press"
+    },
+    {
+      "count": 1,
+      "id": "ae2:logic_processor_press"
+    },
+    {
+      "count": 1,
+      "id": "ae2:silicon_press"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:concureent_processor_press"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:machine_frame"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stonecutter"
+    }
+  ],
+  "processingTime": 400
+}

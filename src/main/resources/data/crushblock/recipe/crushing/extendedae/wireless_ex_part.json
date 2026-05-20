@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:wireless_ex_part"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:wireless_receiver"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:ex_pattern_access_part"
+    },
+    {
+      "count": 1,
+      "id": "ae2:dense_energy_cell"
+    }
+  ],
+  "processingTime": 400
+}

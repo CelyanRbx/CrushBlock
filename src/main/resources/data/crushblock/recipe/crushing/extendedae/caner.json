@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:caner"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:formation_core"
+    },
+    {
+      "count": 1,
+      "id": "ae2:annihilation_core"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:ingredient_buffer"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:machine_frame"
+    }
+  ],
+  "processingTime": 400
+}

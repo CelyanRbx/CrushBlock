@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:threshold_export_bus"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:level_emitter"
+    },
+    {
+      "count": 1,
+      "id": "ae2:export_bus"
+    },
+    {
+      "count": 1,
+      "id": "ae2:logic_processor"
+    }
+  ],
+  "processingTime": 400
+}

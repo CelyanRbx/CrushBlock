@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:crystal_assembler"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "ae2:fluix_glass_cable"
+    },
+    {
+      "count": 2,
+      "id": "ae2:logic_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:crafting_terminal"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:machine_frame"
+    },
+    {
+      "count": 1,
+      "id": "ae2:sky_stone_tank"
+    }
+  ],
+  "processingTime": 400
+}

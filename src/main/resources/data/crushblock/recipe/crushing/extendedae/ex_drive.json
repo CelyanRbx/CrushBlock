@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:ex_drive"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:drive"
+    },
+    {
+      "count": 1,
+      "id": "ae2:pattern_provider"
+    },
+    {
+      "count": 2,
+      "id": "ae2:fluix_glass_cable"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:concurrent_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:capacity_card"
+    }
+  ],
+  "processingTime": 400
+}

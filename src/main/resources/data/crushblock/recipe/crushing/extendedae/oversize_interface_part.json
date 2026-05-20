@@ -1,0 +1,16 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:oversize_interface_part"
+    }
+  ],
+  "outputs": [
+
+    {
+      "count": 1,
+      "id": "extendedae:oversize_interface"
+    }
+  ],
+  "processingTime": 400
+}

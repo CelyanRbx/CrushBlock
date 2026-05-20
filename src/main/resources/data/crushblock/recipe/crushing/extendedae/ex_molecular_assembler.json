@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:ex_molecular_assembler"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "ae2:molecular_assembler"
+    },
+    {
+      "count": 4,
+      "id": "ae2:fluix_dust"
+    },
+    {
+      "count": 1,
+      "id": "ae2:speed_card"
+    },
+    {
+      "count": 4,
+      "id": "extendedae:concurrent_processor"
+    },
+    {
+      "count": 3,
+      "id": "ae2:engineering_processor"
+    }
+  ],
+  "processingTime": 400
+}

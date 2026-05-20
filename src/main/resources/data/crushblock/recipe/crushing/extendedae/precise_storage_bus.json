@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:precise_storage_bus"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:storage_bus"
+    },
+    {
+      "count": 2,
+      "id": "ae2:calculation_processor"
+    }
+  ],
+  "processingTime": 400
+}

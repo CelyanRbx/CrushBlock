@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:wireless_connect"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "ae2:fluix_smart_dense_cable"
+    },
+    {
+      "count": 2,
+      "id": "ae2:wireless_receiver"
+    },
+    {
+      "count": 3,
+      "id": "ae2:wireless_booster"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:machine_frame"
+    },
+  ],
+  "processingTime": 400
+}

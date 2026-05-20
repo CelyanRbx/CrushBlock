@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:concurrent_processor"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "minecraft:redstone"
+    },
+    {
+      "count": 4,
+      "id": "ae2:printed_silicon"
+    },
+    {
+      "count": 4,
+      "id": "extendedae:concurrent_pocessor_print"
+    }
+  ],
+  "processingTime": 400
+}

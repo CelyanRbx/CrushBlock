@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:ex_charger"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:charger"
+    },
+    {
+      "count": 1,
+      "id": "ae2:capacity_card"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:concurrent_processor"
+    }
+  ],
+  "processingTime": 400
+}

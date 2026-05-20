@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:quartz_blend"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:certus_quartz_dust"
+    },
+    {
+      "count": 6,
+      "id": "minecraft:sand"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:coal"
+    }
+  ],
+  "processingTime": 400
+}

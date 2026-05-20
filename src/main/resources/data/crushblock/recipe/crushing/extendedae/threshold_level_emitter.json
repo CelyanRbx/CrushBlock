@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:threshold_level_emitter"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "minecraft:redstone_torch"
+    },
+    {
+      "count": 1,
+      "id": "ae2:level_emitter"
+    },
+    {
+      "count": 1,
+      "id": "ae2:calculation_processor"
+    }
+  ],
+  "processingTime": 400
+}

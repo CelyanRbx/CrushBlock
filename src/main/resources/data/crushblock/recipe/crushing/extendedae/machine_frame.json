@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:machine_frame"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:copper_ingot"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quartz_glass"
+    },
+    {
+      "count": 4,
+      "id": "extendedae:entro_ingot"
+    }
+  ],
+  "processingTime": 400
+}

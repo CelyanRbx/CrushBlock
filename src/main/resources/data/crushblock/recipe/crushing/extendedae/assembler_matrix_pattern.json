@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedae:assembler_matrix_pattern"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "extendedae:assembler_matrix_wall"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:ex_pattern_provider"
+    },
+    {
+      "count": 6,
+      "id": "ae2:blue_lumen_paint_ball"
+    },
+    {
+      "count": 1,
+      "id": "ae2:engineering_processor"
+    }
+  ],
+  "processingTime": 400
+}
