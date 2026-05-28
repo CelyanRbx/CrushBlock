@@ -97,12 +97,22 @@ dependencies {
     runtimeOnly("dev.engine-room.flywheel:flywheel-neoforge-${minecraft_version}:${flywheel_version}")
     implementation("com.tterrag.registrate:Registrate:${registrate_version}")
 
+    // Mega Cells
+    implementation "curse.maven:mega-cells-622112:7952621"
+    // Ae Infinity Booster
     implementation "curse.maven:aeinfinitybooster-559313:7402808"
+    // Ae2 Import Export
     implementation "curse.maven:ae2-import-export-card-982512:8033654"
+    // ExtendedAE
     implementation "curse.maven:ex-pattern-provider-892005:8025439"
-    implementation "curse.maven:glodium-957920:5821676"
+    // AdvancedAE
     implementation "curse.maven:advancedae-1084104:7849217"
+    // AE2
     implementation "curse.maven:applied-energistics-2-223794:7027323"
+    // Ae Additions
+    implementation "curse.maven:ae-additions-extra-cells-2-fork-493962:7661276"
+
+    implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
     implementation "curse.maven:guideme-1173950:7127444"
     implementation "curse.maven:pipez-443900:5757713"
