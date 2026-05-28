@@ -1,0 +1,35 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:decompression_module"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "megacells:compression_card"
+    },
+    {
+      "count": 1,
+      "id": "megacells:accumulation_processor"
+    },
+    {
+    "count": 1,
+    "id": "ae2:calculation_processor"
+    },
+    {
+    "count": 1,
+    "id": "ae2:logic_processor"
+    },
+    {
+    "count": 1,
+    "id": "ae2:engineering_processor"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:iron_ingot"
+    }
+  ],
+  "processingTime": 400
+}

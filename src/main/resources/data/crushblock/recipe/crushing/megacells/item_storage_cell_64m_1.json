@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:item_storage_cell_64m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "megacells:cell_component_64m"
+    },
+    {
+      "count": 3,
+      "id": "ae2:sky_dust"
+    },
+    {
+      "count": 2,
+      "id": "ae2:quartz_vibrant_glass"
+    },
+    {
+      "count": 3,
+      "id": "megacells:sky_steel_ingot"
+    }
+  ],
+  "processingTime": 400
+}

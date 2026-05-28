@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:mega_crafting_accelerator"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:crafting_unit"
+    },
+    {
+      "count": 1,
+      "id": "ae2:engineering_processor"
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:accumulation_processor"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "megacells:printed_accumulation_processor"
+    },
+    {
+      "count": 4,
+      "id": "ae2:printed_silicon"
+    },
+    {
+      "count": 4,
+      "id": "ae2:fluix_dust"
+    }
+  ],
+  "processingTime": 400
+}

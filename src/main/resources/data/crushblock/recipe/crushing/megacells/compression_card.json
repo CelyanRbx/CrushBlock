@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:compression_card"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:advanced_card"
+    },
+    {
+      "count": 1,
+      "id": "ae2:matter_ball"
+    }
+  ],
+  "processingTime": 400
+}

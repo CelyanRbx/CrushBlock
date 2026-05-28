@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:portable_chemical_cell_64m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "megacells:cell_component_64m"
+    },
+    {
+      "count": 1,
+      "id": "ae2:dense_energy_cell"
+    },
+    {
+      "count": 1,
+      "id": "ae2:chest"
+    },
+    {
+      "count": 1,
+      "id": "megacells:mega_chemical_cell_housing"
+    }
+  ],
+  "processingTime": 400
+}

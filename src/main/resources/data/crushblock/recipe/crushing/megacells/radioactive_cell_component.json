@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:radioactive_cell_component"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "megacells:accumulation_processor"
+    },
+    {
+      "count": 4,
+      "id": "ae2:sky_dust"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quartz_vibrant_glass"
+    },
+    {
+      "count": 1,
+      "id": "mekanism:radioactive_waste_barrel"
+    },
+    {
+      "count": 1,
+      "id": "ae2:cell_component_256k"
+    }
+  ],
+  "processingTime": 400
+}

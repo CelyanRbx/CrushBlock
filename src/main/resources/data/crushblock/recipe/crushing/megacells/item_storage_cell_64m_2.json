@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:item_storage_cell_64m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "megacells:cell_component_64m"
+    },
+    {
+      "count": 1,
+      "id": "megacells:mega_item_cell_housing"
+    }
+  ],
+  "processingTime": 400
+}

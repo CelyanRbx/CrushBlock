@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:chemical_storage_cell_1m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "megacells:cell_component_1m"
+    },
+    {
+      "count": 1,
+      "id": "megacells:mega_chemical_cell_housing"
+    }
+  ],
+  "processingTime": 400
+}

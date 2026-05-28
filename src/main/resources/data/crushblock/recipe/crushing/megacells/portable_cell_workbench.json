@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:portable_cell_workbench"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:cell_workbench"
+    },
+    {
+      "count": 1,
+      "id": "ae2:singularity"
+    },
+    {
+      "count": 1,
+      "id": "megacells:mega_item_cell_housing"
+    }
+  ],
+  "processingTime": 400
+}

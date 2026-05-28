@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:fluid_storage_cell_4m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "megacells:cell_component_4m"
+    },
+    {
+      "count": 1,
+      "id": "megacells:mega_fluid_cell_housing"
+    }
+  ],
+  "processingTime": 400
+}
