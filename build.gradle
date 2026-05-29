@@ -111,6 +111,8 @@ dependencies {
     implementation "curse.maven:applied-energistics-2-223794:7027323"
     // Ae Additions
     implementation "curse.maven:ae-additions-extra-cells-2-fork-493962:7661276"
+    // Me Requester
+    implementation "curse.maven:merequester-688367:7844592"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
@@ -119,6 +121,7 @@ dependencies {
     implementation "curse.maven:mekanism-268560:7132168"
     implementation "curse.maven:mekanism-generators-268566:7132171"
     implementation "curse.maven:mekanism-tools-268567:7132172"
+    implementation "curse.maven:kotlin-for-forge-351264:7471280"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
