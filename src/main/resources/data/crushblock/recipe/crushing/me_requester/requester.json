@@ -1,0 +1,35 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "me_requester:requester"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:interface"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:copper_ingot"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:amethyst_shard"
+    },
+    {
+      "count": 1,
+      "id": "ae2:engineering_processor"
+    },
+    {
+      "count": 2,
+      "id": "ae2:crafting_accelerator"
+    }
+  ],
+  "processingTime": 400
+}
