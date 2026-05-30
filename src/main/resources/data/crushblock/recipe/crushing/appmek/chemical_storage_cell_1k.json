@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appmek:chemical_storage_cell_1k"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "appmek:chemical_cell_housing"
+    },
+    {
+      "count": 1,
+      "id": "ae2:cell_component_1k"
+    }
+  ],
+  "processingTime": 400
+}
