@@ -113,6 +113,8 @@ dependencies {
     implementation "curse.maven:ae-additions-extra-cells-2-fork-493962:7661276"
     // Me Requester
     implementation "curse.maven:merequester-688367:7844592"
+    // App Mek
+    implementation "curse.maven:applied-mekanistics-574300:7096962"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
