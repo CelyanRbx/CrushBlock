@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliede:emc_import_bus"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "id": "ae2:annihilation_core"
+    },
+    {
+      "count": 2,
+      "id": "projecte:dark_matter"
+    },
+    {
+      "count": 1,
+      "id": "projecte:transmutation_tablet"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:sticky_piston"
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliede:transmutation_terminal"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:terminal"
+    },
+    {
+      "count": 1,
+      "id": "ae2:singularity"
+    },
+    {
+      "count": 1,
+      "id": "projecte:red_matter_block"
+    },
+    {
+      "count": 1,
+      "id": "projecte:transmutation_tablet"
+    }
+  ],
+  "processingTime": 400
+}

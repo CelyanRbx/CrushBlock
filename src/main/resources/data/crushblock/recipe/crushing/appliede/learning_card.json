@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliede:learning_card"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:advanced_card"
+    },
+    {
+      "count": 1,
+      "id": "projecte:red_matter"
+    },
+    {
+      "count": 1,
+      "id": "projecte:transmutation_tablet"
+    }
+  ],
+  "processingTime": 400
+}
