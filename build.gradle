@@ -121,6 +121,8 @@ dependencies {
     implementation "curse.maven:create-applied-kinetics-867328:7220195"
     // AppliedE
     implementation "curse.maven:appliede-1009940:6500056"
+    // Applied Energistics 2 Wireless Terminals
+    implementation "curse.maven:applied-energistics-2-wireless-terminals-459929:8048692"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
