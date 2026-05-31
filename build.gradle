@@ -115,6 +115,10 @@ dependencies {
     implementation "curse.maven:merequester-688367:7844592"
     // App Mek
     implementation "curse.maven:applied-mekanistics-574300:7096962"
+    // Fullblock Energistics
+    implementation "curse.maven:fullblock-energistics-776293:6766264"
+    // Create Applied Kinetics
+    implementation "curse.maven:create-applied-kinetics-867328:7220195"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
