@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "bigger_ae2:digital_singularity_fluid_storage_cell"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "bigger_ae2:digital_singularity_cell_component"
+    },
+    {
+      "count": 1,
+      "id": "bigger_ae2:advanced_fluid_cell_housing"
+    }
+  ],
+  "processingTime": 400
+}

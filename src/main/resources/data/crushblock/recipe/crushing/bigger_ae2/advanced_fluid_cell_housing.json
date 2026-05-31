@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "bigger_ae2:advanced_fluid_cell_housing"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 3,
+      "id": "minecraft:diamond"
+    },
+    {
+      "count": 2,
+      "id": "ae2:quartz_block"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:redstone"
+    }
+  ],
+  "processingTime": 400
+}

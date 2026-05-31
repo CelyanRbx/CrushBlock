@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "bigger_ae2:digital_singularity_celml_component"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "ae2:sky_dust"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quartz_block"
+    },
+    {
+      "count": 1,
+      "id": "ae2:engineering_processor"
+    },
+    {
+      "count": 3,
+      "id": "bigger_ae2:quantum_cell_component"
+    }
+  ],
+  "processingTime": 400
+}
