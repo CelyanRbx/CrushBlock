@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "ae2wtlib:wireless_pattern_encoding_terminal"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:wireless_crafting_terminal"
+    },
+    {
+      "count": 1,
+      "id": "ae2:engineeering_processor"
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "ae2wtlib:quantum_bridge_card"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:advanced_card"
+    },
+    {
+      "count": 4,
+      "id": "ae2:quantum_ring"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quantum_link"
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "ae2wtlib:magnet_card"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:advanced_card"
+    },
+    {
+      "count": 1,
+      "id": "ae2:annihilation_plane"
+    },
+    {
+      "count": 5,
+      "id": "minecraft:iron_block"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:redstone_block"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:lapis_block"
+    }
+  ],
+  "processingTime": 400
+}
