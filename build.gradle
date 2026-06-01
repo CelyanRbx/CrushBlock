@@ -123,6 +123,8 @@ dependencies {
     implementation "curse.maven:applied-energistics-2-wireless-terminals-459929:8048692"
     // Bigger Ae2
     implementation "curse.maven:bigger-ae2-1013772:6587078"
+    // Ars Energistique
+    implementation "curse.maven:ars-energistique-905641:6203425"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
@@ -132,6 +134,8 @@ dependencies {
     implementation "curse.maven:mekanism-generators-268566:7132171"
     implementation "curse.maven:mekanism-tools-268567:7132172"
     implementation "curse.maven:kotlin-for-forge-351264:7471280"
+    implementation "curse.maven:ars-nouveau-401955:8152094"
+    implementation "curse.maven:curios-309927:6529130"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
