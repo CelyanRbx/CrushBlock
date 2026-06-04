@@ -125,6 +125,8 @@ dependencies {
     implementation "curse.maven:bigger-ae2-1013772:6587078"
     // Ars Energistique
     implementation "curse.maven:ars-energistique-905641:6203425"
+    // Applied Flux
+    implementation "curse.maven:applied-flux-965012:7429565"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
