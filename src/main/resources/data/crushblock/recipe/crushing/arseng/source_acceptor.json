@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "arseng:source_acceptor"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "ars_nouveau:source_gem_block"
+    },
+    {
+      "count": 1,
+      "id": "ae2:energy_acceptor"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:gold_block"
+    }
+  ],
+  "processingTime": 400
+}

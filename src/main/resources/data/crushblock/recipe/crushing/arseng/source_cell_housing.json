@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "arseng:source_cell_housing"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:item_cell_housing"
+    },
+    {
+      "count": 2,
+      "id": "ars_nouveau:source_gem"
+    },
+    {
+      "count": 2,
+      "id": "ars_nouveau:manipulation_essence"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:gold_ingot"
+    }
+  ],
+  "processingTime": 400
+}

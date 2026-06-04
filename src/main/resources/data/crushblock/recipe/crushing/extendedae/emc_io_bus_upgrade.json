@@ -2,7 +2,7 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "extendedae:io_bus_upgrade"
+      "item": "extendedae:emc_io_bus_upgrade"
     }
   ],
   "outputs": [
@@ -12,7 +12,11 @@
     },
     {
       "count": 1,
-      "id": "extendedae:ex_import_bus_part"
+      "id": "extendedae:ex_emc_import_bus_part"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:ex_emc_export_bus_part"
     }
   ],
   "processingTime": 400

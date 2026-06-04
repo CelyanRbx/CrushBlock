@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "arseng:me_source_jar"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ars_nouveau:manipulation_essence"
+    },
+    {
+      "count": 1,
+      "id": "ae2:interface"
+    },
+    {
+      "count": 1,
+      "id": "ars_nouveau:source_jar"
+    }
+  ],
+  "processingTime": 400
+}

@@ -2,17 +2,17 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "ae2additions:super_cell_16m"
+      "item": "extendedae:emc_interface_upgrade"
     }
   ],
   "outputs": [
     {
       "count": 1,
-      "id": "ae2additions:super_cell_housing"
+      "id": "minecraft:iron_ingot"
     },
     {
       "count": 1,
-      "id": "ae2additions:super_cell_component_16m"
+      "id": "extendedae:ex_emc_interface"
     }
   ],
   "processingTime": 400

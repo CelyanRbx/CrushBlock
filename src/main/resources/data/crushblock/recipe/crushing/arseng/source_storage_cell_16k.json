@@ -2,17 +2,17 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "ae2:fluix_covered_cable"
+      "item": "arseng:source_storage_cell_16k"
     }
   ],
   "outputs": [
     {
       "count": 1,
-      "id": "ae2:white_covered_cable"
+      "id": "arseng:source_cell_housing"
     },
     {
       "count": 1,
-      "id": "minecraft:snowball"
+      "id": "ae2:cell_component_16k"
     }
   ],
   "processingTime": 400

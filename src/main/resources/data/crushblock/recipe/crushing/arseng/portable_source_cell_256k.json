@@ -2,25 +2,25 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "ae2:fluid_storage_cell_256k"
+      "item": "arseng:portable_source_cell_256k"
     }
   ],
   "outputs": [
     {
-      "count": 2,
-      "id": "ae2:quartz_glass"
+      "count": 1,
+      "id": "arseng:source_cell_housing"
     },
     {
       "count": 1,
       "id": "ae2:cell_component_256k"
     },
     {
-      "count": 3,
-      "id": "minecraft:redstone"
+      "count": 1,
+      "id": "ae2:chest"
     },
     {
-      "count": 3,
-      "id": "minecraft:copper_ingot"
+      "count": 1,
+      "id": "ae2:energy_cell"
     }
   ],
   "processingTime": 400

@@ -2,17 +2,17 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "megacells:fluid_storage_cell_16m"
+      "item": "arseng:source_storage_cell_256k"
     }
   ],
   "outputs": [
     {
       "count": 1,
-      "id": "megacells:cell_component_16m"
+      "id": "arseng:source_cell_housing"
     },
     {
       "count": 1,
-      "id": "megacells:mega_fluid_cell_housing"
+      "id": "ae2:cell_component_256k"
     }
   ],
   "processingTime": 400

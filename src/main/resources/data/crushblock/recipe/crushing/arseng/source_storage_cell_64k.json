@@ -2,17 +2,17 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "ae2additions:fluid_storage_cell_4096"
+      "item": "arseng:source_storage_cell_64k"
     }
   ],
   "outputs": [
     {
       "count": 1,
-      "id": "ae2:fluid_cell_housing"
+      "id": "arseng:source_cell_housing"
     },
     {
       "count": 1,
-      "id": "ae2additions:cell_component_4096"
+      "id": "ae2:cell_component_64k"
     }
   ],
   "processingTime": 400
