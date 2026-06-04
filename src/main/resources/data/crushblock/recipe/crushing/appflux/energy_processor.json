@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appflux:energy_processor"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "appflux:printed_energy_processor"
+    },
+    {
+      "count": 4,
+      "id": "ae2:printed_silicon"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:redstone"
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appflux:induction_card"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "appflux:flux_accessor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:basic_card"
+    }
+  ],
+  "processingTime": 400
+}

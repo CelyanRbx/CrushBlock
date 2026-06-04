@@ -1,0 +1,35 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appflux:insulating_resin"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "minecraft:water_bucket"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:cactus"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:bone_meal"
+    },
+    {
+      "count": 1,
+      "id": "ae2:silicon"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:slime_ball"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:glowstone_dust"
+    }
+  ],
+  "processingTime": 400
+}

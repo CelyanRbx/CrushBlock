@@ -2,7 +2,7 @@
   "type": "crushblock:crushing",
   "ingredient": [
     {
-      "item": "ae2:fluid_storage_cell_4k"
+      "item": "appflux:fe_256k_cell"
     }
   ],
   "outputs": [
@@ -11,16 +11,16 @@
       "id": "ae2:quartz_glass"
     },
     {
+      "count": 3,
+      "id": "appflux:harden_insulating_resin"
+    },
+    {
       "count": 1,
-      "id": "ae2:cell_component_4k"
+      "id": "appflux:core_256k"
     },
     {
       "count": 3,
       "id": "minecraft:redstone"
-    },
-    {
-      "count": 3,
-      "id": "minecraft:copper_ingot"
     }
   ],
   "processingTime": 400

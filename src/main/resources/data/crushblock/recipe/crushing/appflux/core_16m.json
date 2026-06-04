@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appflux:core_16m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "appflux:diamond_dust"
+    },
+    {
+      "count": 3,
+      "id": "appflux:core_4m"
+    },
+    {
+      "count": 1,
+      "id": "ae2:engineering_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quartz_vibrant_glass"
+    }
+  ],
+  "processingTime": 400
+}

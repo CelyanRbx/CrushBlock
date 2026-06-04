@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appflux:flux_accessor"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "minecraft:glowstone_dust"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:copper_ingot"
+    },
+    {
+      "count": 2,
+      "id": "appflux:energy_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:energy_acceptor"
+    }
+  ],
+  "processingTime": 400
+}

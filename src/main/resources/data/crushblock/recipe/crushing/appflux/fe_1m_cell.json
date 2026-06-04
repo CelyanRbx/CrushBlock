@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appflux:fe_1m_cell"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "ae2:quartz_glass"
+    },
+    {
+      "count": 3,
+      "id": "appflux:harden_insulating_resin"
+    },
+    {
+      "count": 1,
+      "id": "appflux:core_1m"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:redstone"
+    }
+  ],
+  "processingTime": 400
+}
