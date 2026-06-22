@@ -137,6 +137,8 @@ dependencies {
     implementation "curse.maven:applied-create-1474758:7945860"
     // Applied Experienced
     implementation "curse.maven:applied-experienced-1157608:7705498"
+    // Applied Extended Crafting
+    implementation "curse.maven:applied-extended-crafting-1484112:7774544"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
@@ -148,6 +150,8 @@ dependencies {
     implementation "curse.maven:kotlin-for-forge-351264:7471280"
     implementation "curse.maven:ars-nouveau-401955:8152094"
     implementation "curse.maven:curios-309927:6529130"
+    implementation "curse.maven:extended-crafting-268387:7713533"
+    implementation "curse.maven:cucumber-272335:8035802"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
