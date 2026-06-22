@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "ae2_mega_things:mega_item_disk_housing"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "minecraft:netherite_ingot"
+    },
+    {
+      "count": 2,
+      "id": "ae2:quartz_glass"
+    },
+    {
+      "count": 1,
+      "id": "megacells:mega_item_cell_housing"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:redstone"
+    }
+  ],
+  "processingTime": 400
+}
