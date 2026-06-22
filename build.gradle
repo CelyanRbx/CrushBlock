@@ -127,6 +127,10 @@ dependencies {
     implementation "curse.maven:ars-energistique-905641:6203425"
     // Applied Flux
     implementation "curse.maven:applied-flux-965012:7429565"
+    // Better P2P
+    implementation "curse.maven:betterp2p-538092:7140376"
+    // Ae2 Mega Things
+    implementation "curse.maven:ae2-mega-things-1150075:6203833"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
