@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedcreate:stress_processor"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "appliedcreate:stress_circuit_board"
+    },
+    {
+      "count": 4,
+      "id": "create:cinder_flour"
+    },
+    {
+      "count": 4,
+      "id": "ae2:printed_silicon"
+    }
+  ],
+  "processingTime": 400
+}

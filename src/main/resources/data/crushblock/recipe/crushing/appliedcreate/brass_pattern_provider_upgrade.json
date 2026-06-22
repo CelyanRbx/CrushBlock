@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedcreate:brass_pattern_provider_upgrade"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1²,
+      "id": "create:andesite_alloy"
+    },
+    {
+      "count": 1,
+      "id": "ae2:pattern_provider"
+    }
+  ],
+  "processingTime": 400
+}

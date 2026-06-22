@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedcreate:stress_storage_component_4m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "appliedcreate:advanced_stress_processor"
+    },
+    {
+      "count": 3,
+      "id": "appliedcreate:stress_storage_component_1m"
+    },
+    {
+      "count": 4,
+      "id": "create:cinder_flour"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quartz_glass"
+    }
+  ],
+  "processingTime": 400
+}

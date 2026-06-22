@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedcreate:stress_storage_cell_1m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "appliedcreate:brass_stress_cell_housing"
+    },
+    {
+      "count": 1,
+      "id": "appliedcreate:stress_storage_component_1m"
+    }
+  ],
+  "processingTime": 400
+}

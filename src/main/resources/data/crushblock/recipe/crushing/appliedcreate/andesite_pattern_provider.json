@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedcreate:andesite_pattern_provider"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 7,
+      "id": "create:andesite_alloy"
+    },
+    {
+      "count": 1,
+      "id": "create:andesite_casing"
+    },
+    {
+      "count": 1,
+      "id": "ae2:pattern_provider"
+    }
+  ],
+  "processingTime": 400
+}

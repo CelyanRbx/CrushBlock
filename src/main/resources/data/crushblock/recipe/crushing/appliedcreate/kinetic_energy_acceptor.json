@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedcreate:kinetic_energy_acceptor"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "create:andesite_alloy"
+    },
+    {
+      "count": 1,
+      "id": "create:shaft"
+    },
+    {
+      "count": 2,
+      "id": "ae2:fluix_glass_cable"
+    },
+    {
+      "count": 2,
+      "id": "ae2:fluix_crystal"
+    }
+  ],
+  "processingTime": 400
+}
