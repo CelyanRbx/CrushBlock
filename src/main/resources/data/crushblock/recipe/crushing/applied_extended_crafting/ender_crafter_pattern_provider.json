@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "applied_extended_crafting:ender_crafter_pattern_provider"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "extendedcrafting:enhanced_ender_ingot"
+    },
+    {
+      "count": 1,
+      "id": "ae2:annihilation_core"
+    },
+    {
+      "count": 1,
+      "id": "ae2:formation_core"
+    },
+    {
+      "count": 1,
+      "id": "extendedcrafting:auto_ender_crafter"
+    },
+    {
+      "count": 2,
+      "id": "extendedcrafting:ender_star"
+    }
+  ],
+  "processingTime": 400
+}
