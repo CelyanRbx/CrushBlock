@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appex:experience_acceptor"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "ae2:cell_component_64k"
+    },
+    {
+      "count": 1,
+      "id": "ae2:energy_acceptor"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:experience_bottle"
+    }
+  ],
+  "processingTime": 400
+}

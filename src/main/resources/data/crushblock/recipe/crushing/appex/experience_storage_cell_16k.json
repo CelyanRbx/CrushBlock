@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appex:experience_storage_cell_16k"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:cell_component_16k"
+    },
+    {
+      "count": 1,
+      "id": "appex:experience_cell_housing"
+    }
+  ],
+  "processingTime": 400
+}
