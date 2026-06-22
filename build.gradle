@@ -131,6 +131,8 @@ dependencies {
     implementation "curse.maven:betterp2p-538092:7140376"
     // Ae2 Mega Things
     implementation "curse.maven:ae2-mega-things-1150075:6203833"
+    // Applied Create
+    implementation "curse.maven:applied-create-1474758:7945860"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
