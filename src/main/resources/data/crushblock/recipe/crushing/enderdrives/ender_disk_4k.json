@@ -1,0 +1,35 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "enderdrives:ender_disk_4k"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "enderdrives:ender_storage_component_4k"
+    },
+    {
+      "count": 2,
+      "id": "ae2:sky_dust"
+    },
+    {
+      "count": 2,
+      "id": "ae2:quartz_vibrant_glass"
+    },
+    {
+      "count": 2,
+      "id": "advanced_ae:quantum_alloy_plate"
+    },
+    {
+      "count": 1,
+      "id": "advanced_ae:quantum_processor"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:ender_chest"
+    }
+  ],
+  "processingTime": 400
+}

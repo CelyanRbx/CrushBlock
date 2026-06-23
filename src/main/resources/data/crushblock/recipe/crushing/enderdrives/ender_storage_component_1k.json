@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "enderdrives:ender_storage_component_1k"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "advanced_ae:shattered_singularity"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "count": 1,
+      "id": "advanced_ae:quantum_storage_component"
+    }
+  ],
+  "processingTime": 400
+}
