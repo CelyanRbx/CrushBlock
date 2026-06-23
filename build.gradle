@@ -165,6 +165,10 @@ dependencies {
     implementation "curse.maven:ae-wireless-transceiver-1337607:8130761"
     // Me Beam Former
     implementation "curse.maven:me-beam-former-1351545:7765462"
+    // Ender Drives
+    implementation "curse.maven:enderdrives-1226739:7033446"
+    // Mega Ender Drives
+    implementation "curse.maven:megaenderdrives-1359245:7071283"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
