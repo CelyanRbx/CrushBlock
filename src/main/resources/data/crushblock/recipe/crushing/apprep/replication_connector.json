@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "apprep:replication_connector"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "replication:replica_block"
+    },
+    {
+      "count": 2,
+      "id": "ae2:engineering_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:pattern_provider"
+    },
+    {
+      "count": 1,
+      "id": "ae2:storage_bus"
+    },
+    {
+      "count": 1,
+      "id": "replication:matter_tank"
+    }
+  ],
+  "processingTime": 400
+}
