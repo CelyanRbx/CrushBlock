@@ -163,6 +163,8 @@ dependencies {
     implementation "curse.maven:ae2-labeled-patterns-1305877:6867561"
     // Ae Wireless Transceiver
     implementation "curse.maven:ae-wireless-transceiver-1337607:8130761"
+    // Me Beam Former
+    implementation "curse.maven:me-beam-former-1351545:7765462"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
