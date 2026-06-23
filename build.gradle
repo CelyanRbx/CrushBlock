@@ -171,6 +171,8 @@ dependencies {
     implementation "curse.maven:megaenderdrives-1359245:7071283"
     // Replication Ae2 Bridge
     implementation "curse.maven:replication-ae2-bridge-1264781:7742278"
+    // Schematic Energistics
+    implementation "curse.maven:schematic-energistics-1283481:8175645"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
