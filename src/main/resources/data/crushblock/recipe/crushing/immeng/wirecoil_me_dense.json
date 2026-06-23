@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "immeng:wirecoil_me_dense"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "ae2:fluix_covered_dense_cable"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:stick"
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "immeng:connector_me"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "ae2:fluix_block"
+    },
+    {
+      "count": 3,
+      "id": "ae2:fluix_crystal"
+    }
+  ],
+  "processingTime": 400
+}
