@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedsoul:soul_cell_4k"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "ae2:quartz_glass"
+    },
+    {
+      "count": 1,
+      "id": "ae2:cell_component_4k"
+    },
+    {
+      "count": 2,
+      "id": "industrialforegoing:plastic"
+    },
+    {
+      "count": 1,
+      "id": "industrialforegoing:pink_slime_ingot"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:echo_shard"
+    }
+  ],
+  "processingTime": 400
+}

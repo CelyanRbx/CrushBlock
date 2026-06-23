@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedsoul:ender_star"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "count": 1,
+      "id": "ae2:singularity"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:nether_star"
+    }
+  ],
+  "processingTime": 400
+}

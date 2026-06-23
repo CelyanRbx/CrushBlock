@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedsoul:soul_collector"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "minecraft:echo_shard"
+    },
+    {
+      "count": 1,
+      "id": "ae2:interface"
+    },
+    {
+      "count": 4,
+      "id": "appliedsoul:ender_star"
+    }
+  ],
+  "processingTime": 400
+}
