@@ -153,6 +153,8 @@ dependencies {
     implementation "curse.maven:extended-terminal-1302078:8102255"
     // Create: Stock Bridge
     implementation "curse.maven:create-stock-bridge-1256341:8044769"
+    // AE2 Network Analyser
+    implementation "curse.maven:ae2-network-analyser-961856:7622554"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
