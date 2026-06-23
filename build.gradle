@@ -145,6 +145,8 @@ dependencies {
     implementation "curse.maven:applied-pneumatics-1355087:7723695"
     // Applied Replicatics
     implementation "curse.maven:applied-replicatics-1440118:7714240"
+    // Applied Souls
+    implementation "curse.maven:applied-soul-1337114:7653184"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
@@ -160,6 +162,10 @@ dependencies {
     implementation "curse.maven:cucumber-272335:8035802"
     implementation "curse.maven:pneumaticcraft-repressurized-281849:8062194"
     implementation "curse.maven:replication-638351:7662870"
+    implementation "curse.maven:industrial-foregoing-souls-904394:7441306"
+    implementation "curse.maven:industrial-foregoing-266515:7600395"
+    implementation "curse.maven:titanium-287342:7951516"
+    implementation "curse.maven:patchouli-306770:7730942"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
