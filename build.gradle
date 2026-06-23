@@ -143,6 +143,8 @@ dependencies {
     implementation "curse.maven:applied-generators-1320369:7767773"
     // Applied Pneumatics
     implementation "curse.maven:applied-pneumatics-1355087:7723695"
+    // Applied Replicatics
+    implementation "curse.maven:applied-replicatics-1440118:7714240"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
@@ -157,6 +159,7 @@ dependencies {
     implementation "curse.maven:extended-crafting-268387:7713533"
     implementation "curse.maven:cucumber-272335:8035802"
     implementation "curse.maven:pneumaticcraft-repressurized-281849:8062194"
+    implementation "curse.maven:replication-638351:7662870"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
