@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "create_ae_generator:stator"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "create_ae_generator:copper_coil"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:iron_nugget"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:redstone"
+    }
+  ],
+  "processingTime": 400
+}

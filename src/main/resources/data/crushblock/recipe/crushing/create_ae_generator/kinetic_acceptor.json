@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "create_ae_generator:kinetic_acceptor"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "create_ae_generator:stator"
+    },
+    {
+      "count": 2,
+      "id": "create:shaft"
+    },
+    {
+      "count": 1,
+      "id": "ae2:fluix_crystal"
+    },
+    {
+      "count": 1,
+      "id": "ae2:energy_acceptor"
+    }
+  ],
+  "processingTime": 400
+}
