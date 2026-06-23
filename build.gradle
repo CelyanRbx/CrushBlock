@@ -107,7 +107,7 @@ dependencies {
     implementation "curse.maven:ex-pattern-provider-892005:8025439"
     // AdvancedAE
     implementation "curse.maven:advancedae-1084104:7849217"
-    // AE2
+    // Ae2
     implementation "curse.maven:applied-energistics-2-223794:7027323"
     // Ae Additions
     implementation "curse.maven:ae-additions-extra-cells-2-fork-493962:7661276"
@@ -153,8 +153,10 @@ dependencies {
     implementation "curse.maven:extended-terminal-1302078:8102255"
     // Create: Stock Bridge
     implementation "curse.maven:create-stock-bridge-1256341:8044769"
-    // AE2 Network Analyser
+    // Ae2 Network Analyser
     implementation "curse.maven:ae2-network-analyser-961856:7622554"
+    // ExpandedAE
+    implementation "curse.maven:expanded-ae-1213351:6910849"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
