@@ -1,0 +1,35 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "createstockbridge:ae_bridge"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "create:brass_sheet"
+    },
+    {
+      "count": 2,
+      "id": "create:iron_sheet"
+    },
+    {
+      "count": 1,
+      "id": "create:stock_link"
+    },
+    {
+      "count": 1,
+      "id": "create:stock_ticker"
+    },
+    {
+      "count": 2,
+      "id": "ae2:engineering_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:interface"
+    }
+  ],
+  "processingTime": 400
+}
