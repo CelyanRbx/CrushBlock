@@ -149,6 +149,8 @@ dependencies {
     implementation "curse.maven:applied-soul-1337114:7653184"
     // Create: AE Generator
     implementation "curse.maven:create-ae-generator-1365505:7338675"
+    // Extended Terminal
+    implementation "curse.maven:extended-terminal-1302078:8102255"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
@@ -168,6 +170,7 @@ dependencies {
     implementation "curse.maven:industrial-foregoing-266515:7600395"
     implementation "curse.maven:titanium-287342:7951516"
     implementation "curse.maven:patchouli-306770:7730942"
+    implementation "curse.maven:myotus-lib-1496024:7995364"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
