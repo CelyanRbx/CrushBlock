@@ -169,6 +169,8 @@ dependencies {
     implementation "curse.maven:enderdrives-1226739:7033446"
     // Mega Ender Drives
     implementation "curse.maven:megaenderdrives-1359245:7071283"
+    // Replication Ae2 Bridge
+    implementation "curse.maven:replication-ae2-bridge-1264781:7742278"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
