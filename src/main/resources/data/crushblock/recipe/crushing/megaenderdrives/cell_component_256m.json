@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megaenderdrives:cell_component_256m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 3,
+      "id": "megaenderdrives:cell_component_64m"
+    },
+    {
+      "count": 4,
+      "id": "ae2:matter_ball"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quartz_vibrant_glass"
+    },
+    {
+      "count": 1,
+      "id": "megacells:accumulation_processor"
+    }
+  ],
+  "processingTime": 400
+}
