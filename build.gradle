@@ -145,8 +145,10 @@ dependencies {
     implementation "curse.maven:applied-pneumatics-1355087:7723695"
     // Applied Replicatics
     implementation "curse.maven:applied-replicatics-1440118:7714240"
-    // Applied Souls
+    // Applied Soul
     implementation "curse.maven:applied-soul-1337114:7653184"
+    // Create: AE Generator
+    implementation "curse.maven:create-ae-generator-1365505:7338675"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
