@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "expandedae:auto_complete_card"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:advanced_card"
+    },
+    {
+      "count": 1,
+      "id": "ae2:crafting_card"
+    }
+  ],
+  "processingTime": 400
+}

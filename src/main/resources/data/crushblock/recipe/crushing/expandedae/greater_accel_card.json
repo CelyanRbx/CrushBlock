@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "expandedae:greater_accel_card"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 8,
+      "id": "ae2:speed_card"
+    },
+    {
+      "count": 1,
+      "id": "ae2:calculation_processor"
+    }
+  ],
+  "processingTime": 400
+}

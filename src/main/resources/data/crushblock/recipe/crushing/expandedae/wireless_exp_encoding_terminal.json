@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "expandedae:wireless_exp_encoding_terminal"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:wireless_receiver"
+    },
+    {
+      "count": 1,
+      "id": "ae2:dense_energy_cell"
+    },
+    {
+      "count": 1,
+      "id": "expandedae:exp_encoding_terminal"
+    }
+  ],
+  "processingTime": 400
+}

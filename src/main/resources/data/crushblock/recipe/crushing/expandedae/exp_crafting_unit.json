@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "expandedae:exp_crafting_unit"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "megacells:mega_crafting_unit"
+    },
+    {
+      "count": 2,
+      "id": "ae2:engineering_processor"
+    },
+    {
+      "count": 2,
+      "id": "ae2:fluix_smart_dense_cable"
+    },
+    {
+      "count": 1,
+      "id": "megacells:accumulation_processor"
+    }
+  ],
+  "processingTime": 400
+}
