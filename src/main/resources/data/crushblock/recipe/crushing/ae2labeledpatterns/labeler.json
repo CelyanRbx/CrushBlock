@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "ae2labeledpatterns:labeler"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "minecraft:iron_block"
+    },
+    {
+      "count": 1,
+      "id": "ae2:monitor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:certus_quartze_knife"
+    },
+    {
+      "count": 1,
+      "id": "ae2:engineering_processor"
+    }
+  ],
+  "processingTime": 400
+}

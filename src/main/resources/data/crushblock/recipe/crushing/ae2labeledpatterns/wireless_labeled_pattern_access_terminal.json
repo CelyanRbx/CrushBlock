@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "ae2labeledpatterns:wireless_labeled_pattern_access_terminal"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:wireless_receiver"
+    },
+    {
+      "count": 1,
+      "id": "ae2:dense_energy_cell"
+    },
+    {
+      "count": 1,
+      "id": "ae2labeledpatterns:labeled_pattern_access_terminal"
+    }
+  ],
+  "processingTime": 400
+}
