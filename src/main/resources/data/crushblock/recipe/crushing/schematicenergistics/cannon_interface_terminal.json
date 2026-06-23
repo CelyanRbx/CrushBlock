@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "schematicenergistics:cannon_interface_terminal"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "schematicenergistics:cannon_interface"
+    },
+    {
+      "count": 1,
+      "id": "ae2:monitor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:engineering_processor"
+    }
+  ],
+  "processingTime": 400
+}
