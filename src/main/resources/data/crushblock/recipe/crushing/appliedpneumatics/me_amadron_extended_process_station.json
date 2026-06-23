@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedpneumatics:me_amadron_extended_process_station"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "appliedpneumatics:me_amadron_process_station"
+    },
+    {
+      "count": 3,
+      "id": "ae2:capacity_card"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:crafting_table"
+    },
+    {
+      "count": 1,
+      "id": "extendedae:concurrent_processor"
+    },
+    {
+      "count": 6,
+      "id": "ae2:fluix_glass_cable"
+    }
+  ],
+  "processingTime": 400
+}

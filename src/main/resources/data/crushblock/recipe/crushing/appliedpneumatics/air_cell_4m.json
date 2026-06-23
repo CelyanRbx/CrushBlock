@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedpneumatics:air_cell_4m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "appliedpneumatics:mega_air_cell_shell"
+    },
+    {
+      "count": 1,
+      "id": "megacells:cell_component_4m"
+    }
+  ],
+  "processingTime": 400
+}

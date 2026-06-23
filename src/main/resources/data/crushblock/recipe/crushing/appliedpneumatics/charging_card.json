@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedpneumatics:charging_card"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "pneumaticcraft:charging_upgrade"
+    },
+    {
+      "count": 1,
+      "id": "ae2:advanced_card"
+    }
+  ],
+  "processingTime": 400
+}

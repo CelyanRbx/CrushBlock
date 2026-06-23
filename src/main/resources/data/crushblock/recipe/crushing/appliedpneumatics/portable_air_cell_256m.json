@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedpneumatics:portable_air_cell_256m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "appliedpneumatics:mega_air_cell_shell"
+    },
+    {
+      "count": 1,
+      "id": "megacells:cell_component_256m"
+    },
+    {
+      "count": 1,
+      "id": "ae2:chest"
+    },
+    {
+      "count": 1,
+      "id": "ae2:energy_cell"
+    }
+  ],
+  "processingTime": 400
+}

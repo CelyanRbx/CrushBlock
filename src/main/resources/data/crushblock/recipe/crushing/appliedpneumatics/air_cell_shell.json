@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedpneumatics:air_cell_shell"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "pneumaticcraft:ingot_iron_compressed"
+    },
+    {
+      "count": 3,
+      "id": "pneumaticcraft:pressure_chamber_glass"
+    },
+    {
+      "count": 2,
+      "id": "pneumaticcraft:pressure_tube"
+    },
+    {
+      "count": 1,
+      "id": "pneumaticcraft:pressure_gauge"
+    }
+  ],
+  "processingTime": 400
+}

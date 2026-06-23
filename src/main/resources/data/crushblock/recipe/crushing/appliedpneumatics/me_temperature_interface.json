@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedpneumatics:me_temperature_interface"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "pneumaticcraft:compressed_iron_block"
+    },
+    {
+      "count": 1,
+      "id": "pneumaticcraft:advanced_air_compressor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:annihilation_core"
+    },
+    {
+      "count": 1,
+      "id": "ae2:formation_core"
+    },
+    {
+      "count": 2,
+      "id": "pneumaticcraft:vortex_tube"
+    }
+  ],
+  "processingTime": 400
+}

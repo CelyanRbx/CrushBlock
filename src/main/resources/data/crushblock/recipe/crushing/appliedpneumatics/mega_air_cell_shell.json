@@ -1,0 +1,35 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedpneumatics:mega_air_cell_shell"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 2,
+      "id": "pneumaticcraft:compressed_iron_gear"
+    },
+    {
+      "count": 2,
+      "id": "megacells:sky_steel_ingot"
+    },
+    {
+      "count": 2,
+      "id": "pneumaticcraft:reinforced_pressure_tube"
+    },
+    {
+      "count": 1,
+      "id": "pneumaticcraft:printed_circuit_board"
+    },
+    {
+      "count": 1,
+      "id": "pneumaticcraft:network_data_storage"
+    },
+    {
+      "count": 1,
+      "id": "appliedpneumatics:air_cell_shell"
+    }
+  ],
+  "processingTime": 400
+}

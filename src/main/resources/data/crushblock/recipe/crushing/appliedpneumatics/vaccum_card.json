@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedpneumatics:vaccum_card"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "pneumaticcraft:printed_circuit_board"
+    },
+    {
+      "count": 1,
+      "id": "pneumaticcraft:vaccum_pump"
+    },
+    {
+      "count": 1,
+      "id": "ae2:advanced_card"
+    }
+  ],
+  "processingTime": 400
+}

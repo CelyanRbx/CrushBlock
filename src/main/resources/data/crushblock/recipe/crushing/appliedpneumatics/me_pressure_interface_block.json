@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedpneumatics:me_pressure_interface_block"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "pneumaticcraft:ingot_iron_compressed"
+    },
+    {
+      "count": 1,
+      "id": "pneumaticcraft:air_compressor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:annihilation_core"
+    },
+    {
+      "count": 1,
+      "id": "ae2:formation_core"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:glass"
+    }
+  ],
+  "processingTime": 400
+}

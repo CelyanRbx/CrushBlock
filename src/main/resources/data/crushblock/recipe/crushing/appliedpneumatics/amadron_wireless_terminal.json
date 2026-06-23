@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedpneumatics:amadron_wireless_terminal"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:wireless_receiver"
+    },
+    {
+      "count": 1,
+      "id": "pneumaticcraft:amadron_tablet"
+    },
+    {
+      "count": 1,
+      "id": "ae2:energy_cell"
+    }
+  ],
+  "processingTime": 400
+}

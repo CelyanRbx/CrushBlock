@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appliedpneumatics:portable_air_cell_1k"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "appliedpneumatics:air_cell_shell"
+    },
+    {
+      "count": 1,
+      "id": "ae2:cell_component_1k"
+    },
+    {
+      "count": 1,
+      "id": "ae2:chest"
+    },
+    {
+      "count": 1,
+      "id": "ae2:energy_cell"
+    }
+  ],
+  "processingTime": 400
+}
