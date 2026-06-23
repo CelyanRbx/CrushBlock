@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appgen:origination_processor"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "appgen:printed_origination_processor"
+    },
+    {
+      "count": 4,
+      "id": "minecraft:redstone"
+    },
+    {
+      "count": 4,
+      "id": "ae2:printed_silicon"
+    }
+  ],
+  "processingTime": 400
+}

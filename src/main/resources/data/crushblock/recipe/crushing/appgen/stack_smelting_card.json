@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appgen:stack_smelting_card"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:advanced_card"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:netherite_block"
+    },
+    {
+      "count": 200,
+      "id": "appgen:ember_crystal_charged"
+    }
+  ],
+  "processingTime": 400
+}

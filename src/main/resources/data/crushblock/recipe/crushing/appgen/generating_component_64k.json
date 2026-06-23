@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appgen:generating_component_64k"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 3,
+      "id": "appgen:generating_component_16k"
+    },
+    {
+      "count": 4,
+      "id": "appgen:copper_dust"
+    },
+    {
+      "count": 1,
+      "id": "appgen:origination_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quartz_glass"
+    }
+  ],
+  "processingTime": 400
+}

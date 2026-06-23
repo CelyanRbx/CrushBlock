@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appgen:flux_cell"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "appflux:harden_insulating_resin"
+    },
+    {
+      "count": 4,
+      "id": "ae2:sky_dust"
+    },
+    {
+      "count": 1,
+      "id": "appflux:core_1k"
+    }
+  ],
+  "processingTime": 400
+}

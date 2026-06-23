@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appgen:flux_generator_16m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "id": "appgen:origination_processor"
+    },
+    {
+      "count": 1,
+      "id": "appgen:generating_component_16m"
+    },
+    {
+      "count": 1,
+      "id": "appgen:flux_cell"
+    },
+    {
+      "count": 2,
+      "id": "appgen:flux_generator_4m"
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appgen:smelter"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 2,
+      "id": "ae2:calculation_processor"
+    },
+    {
+      "count": 2,
+      "id": "appgen:ember_crystal_charged"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:furnace"
+    }
+  ],
+  "processingTime": 400
+}

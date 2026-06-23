@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appgen:generating_component_4m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 3,
+      "id": "appgen:generating_component_1m"
+    },
+    {
+      "count": 4,
+      "id": "mekanism:diamond_dust"
+    },
+    {
+      "count": 1,
+      "id": "appgen:origination_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quartz_glass"
+    }
+  ],
+  "processingTime": 400
+}

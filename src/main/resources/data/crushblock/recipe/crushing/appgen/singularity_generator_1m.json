@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "appgen:singularity_generator_1m"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 4,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "id": "appgen:origination_processor"
+    },
+    {
+      "count": 1,
+      "id": "appgen:generating_component_1m"
+    },
+    {
+      "count": 1,
+      "id": "ae2:quantum_ring"
+    },
+    {
+      "count": 2,
+      "id": "appgen:singularity_generator_256k"
+    }
+  ],
+  "processingTime": 400
+}
