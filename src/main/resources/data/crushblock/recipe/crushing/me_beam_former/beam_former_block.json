@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "me_beam_former:beam_former_block"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:energy_acceptor"
+    },
+    {
+      "count": 1,
+      "id": "me_beam_former:beam_former_part"
+    },
+    {
+      "count": 1,
+      "id": "ae2:fluix_pearl"
+    },
+    {
+      "count": 6,
+      "id": "ae2:fluix_smart_dense_cable"
+    }
+  ],
+  "processingTime": 400
+}

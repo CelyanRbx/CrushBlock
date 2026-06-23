@@ -1,0 +1,31 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "me_beam_former:wireless_energy_tower"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "minecraft:ender_eye"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:redstone_block"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:iron_block"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:gold_ingot"
+    }
+  ],
+  "processingTime": 400
+}

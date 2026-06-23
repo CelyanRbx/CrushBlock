@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "me_beam_former:beam_former_part"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:wireless_receiver"
+    },
+    {
+      "count": 1,
+      "id": "ae2:logic_processor"
+    },
+    {
+      "count": 1,
+      "id": "ae2:fluix_glass_cable"
+    }
+  ],
+  "processingTime": 400
+}

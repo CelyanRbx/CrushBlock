@@ -1,0 +1,19 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "me_beam_former:omni_beam_former_block"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "me_beam_former:beam_former_block"
+    },
+    {
+      "count": 8,
+      "id": "me_beam_former:beam_former_part"
+    }
+  ],
+  "processingTime": 400
+}

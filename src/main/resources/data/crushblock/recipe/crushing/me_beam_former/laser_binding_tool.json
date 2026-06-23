@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "me_beam_former:laser_binding_tool"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 3,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:glass"
+    },
+    {
+      "count": 1,
+      "id": "ae2:fluix_pearl"
+    }
+  ],
+  "processingTime": 400
+}
