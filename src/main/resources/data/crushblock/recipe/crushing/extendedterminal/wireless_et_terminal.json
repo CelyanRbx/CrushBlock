@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedterminal:wireless_et_terminal"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:wireless_receiver"
+    },
+    {
+      "count": 1,
+      "id": "ae2:dense_energy_cell"
+    },
+    {
+      "count": 1,
+      "id": "extendedterminal:et_terminal"
+    }
+  ],
+  "processingTime": 400
+}

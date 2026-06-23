@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "extendedterminal:advanced_terminal"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "extendedcrafting:advanced_table"
+    },
+    {
+      "count": 1,
+      "id": "ae2:crafting_terminal"
+    },
+    {
+      "count": 1,
+      "id": "extendedterminal:compat_processor"
+    }
+  ],
+  "processingTime": 400
+}
