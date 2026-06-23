@@ -139,6 +139,8 @@ dependencies {
     implementation "curse.maven:applied-experienced-1157608:7705498"
     // Applied Extended Crafting
     implementation "curse.maven:applied-extended-crafting-1484112:7774544"
+    // Applied Generators
+    implementation "curse.maven:applied-generators-1320369:7767773"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
