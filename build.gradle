@@ -159,6 +159,8 @@ dependencies {
     implementation "curse.maven:expanded-ae-1213351:6910849"
     // Immersive Energistics
     implementation "curse.maven:immersive-energistics-992377:6131911"
+    // Ae2 Labeled Patterns
+    implementation "curse.maven:ae2-labeled-patterns-1305877:6867561"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
