@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:mega_source_cell_housing"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 3,
+      "id": "ars_nouveau:manipulation_essence"
+    },
+    {
+      "count": 2,
+      "id": "ars_nouveau:source_gem_block"
+    },
+    {
+      "count": 1,
+      "id": "arseng:source_cell_housing"
+    },
+    {
+      "count": 3,
+      "id": "megacells:sky_steel_ingot"
+    }
+  ],
+  "processingTime": 400
+}

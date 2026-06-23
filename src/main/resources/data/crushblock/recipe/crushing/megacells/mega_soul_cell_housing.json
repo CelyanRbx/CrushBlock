@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:mega_soul_cell_housing"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 3,
+      "id": "minecraft:echo_shard"
+    },
+    {
+      "count": 2,
+      "id": "industrialforegoing:plastic"
+    },
+    {
+      "count": 2,
+      "id": "industrialforegoing:pink_slime_ingot"
+    },
+    {
+      "count": 1,
+      "id": "appliedsoul:soul_cell_housing"
+    }
+  ],
+  "processingTime": 400
+}

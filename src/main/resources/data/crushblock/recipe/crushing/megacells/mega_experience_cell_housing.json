@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "megacells:mega_experience_cell_housing"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 3,
+      "id": "minecraft:experience_bottle"
+    },
+    {
+      "count": 3,
+      "id": "ae2:sky_dust"
+    },
+    {
+      "count": 2,
+      "id": "ae2:quartz_vibrant_glass"
+    }
+  ],
+  "processingTime": 400
+}
