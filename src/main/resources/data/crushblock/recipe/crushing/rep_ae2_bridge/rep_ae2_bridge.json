@@ -1,0 +1,23 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "rep_ae2_bridge:rep_ae2_bridge"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "replication:replica_block"
+    },
+    {
+      "count": 4,
+      "id": "ae2:pattern_provider"
+    },
+    {
+      "count": 4,
+      "id": "ae2:storage_bus"
+    }
+  ],
+  "processingTime": 400
+}
