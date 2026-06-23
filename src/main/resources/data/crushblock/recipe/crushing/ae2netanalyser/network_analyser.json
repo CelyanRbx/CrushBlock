@@ -1,0 +1,27 @@
+{
+  "type": "crushblock:crushing",
+  "ingredient": [
+    {
+      "item": "ae2netanalyser:network_analyser"
+    }
+  ],
+  "outputs": [
+    {
+      "count": 1,
+      "id": "ae2:logic_processor"
+    },
+    {
+      "count": 3,
+      "id": "minecraft:iron_ingot"
+    },
+    {
+      "count": 2,
+      "id": "minecraft:copper_ingot"
+    },
+    {
+      "count": 2,
+      "id": "ae2:sky_dust"
+    }
+  ],
+  "processingTime": 400
+}
