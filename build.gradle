@@ -157,6 +157,8 @@ dependencies {
     implementation "curse.maven:ae2-network-analyser-961856:7622554"
     // ExpandedAe
     implementation "curse.maven:expanded-ae-1213351:6910849"
+    // Immersive Energistics
+    implementation "curse.maven:immersive-energistics-992377:6131911"
 
     implementation "curse.maven:glodium-957920:5821676"
     implementation "curse.maven:geckolib-388172:7707149"
@@ -177,6 +179,7 @@ dependencies {
     implementation "curse.maven:titanium-287342:7951516"
     implementation "curse.maven:patchouli-306770:7730942"
     implementation "curse.maven:myotus-lib-1496024:7995364"
+    implementation "curse.maven:immersive-engineering-231951:6733669"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
